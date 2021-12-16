@@ -13,18 +13,18 @@ import {
   ListItemText,
   Stack,
 } from "@mui/material";
-// import HomeIcon from '@mui/icons-material/Home';
+import HomeIcon from '@mui/icons-material/Home';
 import MenuIcon from '@mui/icons-material/Menu';
 
 import { Settings } from "../Settings";
 
 export const Header = ({ narrow } : { narrow : boolean }) => {
   const navs = [
-    // {
-    //   href: `/gumdrop/`,
-    //   innerNarrow: "About",
-    //   inner: <HomeIcon />,
-    // },
+    {
+      href: `/gumdrop/`,
+      innerNarrow: "About",
+      inner: <HomeIcon />,
+    },
     // {
     //   href: `/gumdrop/create`,
     //   inner: "Create",
