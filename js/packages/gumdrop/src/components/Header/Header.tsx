@@ -20,23 +20,23 @@ import { Settings } from "../Settings";
 
 export const Header = ({ narrow } : { narrow : boolean }) => {
   const navs = [
-    {
-      href: `/gumdrop/`,
-      innerNarrow: "About",
-      inner: <HomeIcon />,
-    },
-    {
-      href: `/gumdrop/create`,
-      inner: "Create",
-    },
+    // {
+    //   href: `/gumdrop/`,
+    //   innerNarrow: "About",
+    //   inner: <HomeIcon />,
+    // },
+    // {
+    //   href: `/gumdrop/create`,
+    //   inner: "Create",
+    // },
     {
       href: `/gumdrop/claim`,
       inner: "Claim",
     },
-    {
-      href: `/gumdrop/close`,
-      inner: "Close",
-    },
+    // {
+    //   href: `/gumdrop/close`,
+    //   inner: "Close",
+    // },
   ];
 
   const [drawerOpen, setDrawerOpen] = React.useState(false);
