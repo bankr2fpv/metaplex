@@ -29,9 +29,7 @@ const About = () => {
   const summary = (
     <Stack spacing={1}>
       <div>
-      The Gumdrop program leverages the Solana blockchain and merkle trees to
-      facilitate airdrops to a large number of whitelisted users at a low cost
-      to creators.
+      The Beginning of the Mask Guild this is where be rise.
       </div>
 
       {/* <div>
