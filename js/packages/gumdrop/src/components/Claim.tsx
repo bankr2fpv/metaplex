@@ -618,11 +618,6 @@ const fetchNeedsTemporalSigner = async (
 
 export type ClaimProps = {};
 
-type ClaimTransactions = {
-  setup : Transaction | null,
-  claim : Transaction,
-};
-
 export const Claim = (
   props : RouteComponentProps<ClaimProps>,
 ) => {
@@ -655,7 +650,8 @@ export const Claim = (
   const [indexStr, setIndex] = React.useState(params.index as string || "");
   const [pinStr, setPin] = React.useState(params.pin as string || "");
   const [proofStr, setProof] = React.useState(params.proof as string || "");
-  const [commMethod, setCommMethod] = React.useState(params.method || "aws-email");
+
+  const discordGuild = params.guild;
 
   const allFieldsPopulated =
     distributor.length > 0
@@ -670,10 +666,11 @@ export const Claim = (
     // NB: pin can be empty if handle is a public-key and we are claiming through wallets
     // NB: proof can be empty!
 
-  const [editable, setEditable] = React.useState(!allFieldsPopulated);
+  // const [editable, setEditable] = React.useState(!allFieldsPopulated);
+  const editable = false;
 
   // temporal verification
-  const [transaction, setTransaction] = React.useState<ClaimTransactions | null>(null);
+  const [transaction, setTransaction] = React.useState<Transaction | null>(null);
   const [OTPStr, setOTPStr] = React.useState("");
 
   // async computed
@@ -767,55 +764,36 @@ export const Claim = (
       throw new Error(`Internal error: PDA generated when distributing to wallet directly`);
     }
 
-    const signersOf = (instrs : Array<TransactionInstruction>) => {
-      const signers = new Set<PublicKey>();
-      for (const instr of instrs) {
-        for (const key of instr.keys)
-          if (key.isSigner)
-            signers.add(key.pubkey);
-      }
-      return signers;
-    };
-
-    const recentBlockhash = (await connection.getRecentBlockhash("singleGossip")).blockhash;
-    let setupTx : Transaction | null = null;
-    if (instructions.length > 1) {
-      setupTx = new Transaction({
-        feePayer: wallet.publicKey,
-        recentBlockhash,
-      });
-
-      const setupInstrs = instructions.slice(0, -1);
-      const setupSigners = signersOf(setupInstrs);
-      console.log(`Expecting the following setup signers: ${[...setupSigners].map(s => s.toBase58())}`);
-      setupTx.add(...setupInstrs);
-      setupTx.setSigners(...setupSigners);
-
-      if (extraSigners.length > 0) {
-        setupTx.partialSign(...extraSigners);
-      }
-    }
-
-    const claimTx = new Transaction({
+    const transaction = new Transaction({
       feePayer: wallet.publicKey,
-      recentBlockhash,
+      recentBlockhash: (await connection.getRecentBlockhash("singleGossip")).blockhash,
     });
 
-    const claimInstrs = instructions.slice(-1);
-    const claimSigners = signersOf(claimInstrs);
-    console.log(`Expecting the following claim signers: ${[...claimSigners].map(s => s.toBase58())}`);
-    claimTx.add(...claimInstrs);
-    claimTx.setSigners(...claimSigners);
+    const signers = new Set<PublicKey>();
+    for (const instr of instructions) {
+      transaction.add(instr);
+      for (const key of instr.keys)
+        if (key.isSigner)
+          signers.add(key.pubkey);
+    }
+    console.log(`Expecting the following signers: ${[...signers].map(s => s.toBase58())}`);
+    transaction.setSigners(...signers);
+
+    if (extraSigners.length > 0) {
+      transaction.partialSign(...extraSigners);
+    }
 
     const txnNeedsTemporalSigner =
-        claimTx.signatures.some(s => s.publicKey.equals(GUMDROP_TEMPORAL_SIGNER));
+        transaction.signatures.some(s => s.publicKey.equals(GUMDROP_TEMPORAL_SIGNER));
     if (txnNeedsTemporalSigner && !skipAWSWorkflow) {
       const otpQuery : { [key: string] : any } = {
         method: "send",
-        transaction: bs58.encode(claimTx.serializeMessage()),
+        transaction: bs58.encode(transaction.serializeMessage()),
         seeds: pdaSeeds,
-        comm: commMethod,
       };
+      if (discordGuild) {
+        otpQuery.discordGuild = discordGuild;
+      }
       const params = {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -839,22 +817,12 @@ export const Claim = (
       console.log("AWS OTP response data:", data);
 
       let succeeded, toCheck;
-      switch (commMethod) {
-        case "discord": {
-          succeeded = !!data.id;
-          toCheck = "discord";
-          break;
-        }
-        case 'aws-email': {
-          succeeded = !!data.MessageId;
-          toCheck = "email";
-          break;
-        }
-        case 'aws-sms': {
-          succeeded = !!data.MessageId;
-          toCheck = "SMS";
-          break;
-        }
+      if (discordGuild) {
+        succeeded = !!data.id;
+        toCheck = "discord";
+      } else {
+        succeeded = !!data.MessageId;
+        toCheck = "email";
       }
 
       if (!succeeded) {
@@ -867,15 +835,12 @@ export const Claim = (
       });
     }
 
-    return {
-      setup: setupTx,
-      claim: claimTx,
-    };
+    return transaction;
   };
 
   const verifyOTP = async (
     e : React.SyntheticEvent,
-    transaction : ClaimTransactions | null,
+    transaction : Transaction | null,
   ) => {
     e.preventDefault();
 
@@ -888,7 +853,7 @@ export const Claim = (
     }
 
     const txnNeedsTemporalSigner =
-        transaction.claim.signatures.some(s => s.publicKey.equals(GUMDROP_TEMPORAL_SIGNER));
+        transaction.signatures.some(s => s.publicKey.equals(GUMDROP_TEMPORAL_SIGNER));
     if (txnNeedsTemporalSigner && !skipAWSWorkflow) {
       // TODO: distinguish between OTP failure and transaction-error. We can try
       // again on the former but not the latter
@@ -932,37 +897,19 @@ export const Claim = (
         throw new Error(`Could not decode transaction signature ${data.body}`);
       }
 
-      transaction.claim.addSignature(GUMDROP_TEMPORAL_SIGNER, sig);
+      transaction.addSignature(GUMDROP_TEMPORAL_SIGNER, sig);
     }
 
     let fullySigned;
     try {
-      fullySigned = await wallet.signAllTransactions(
-        transaction.setup === null
-        ? [transaction.claim]
-        : [transaction.setup, transaction.claim]
-      );
+      fullySigned = await wallet.signTransaction(transaction);
     } catch {
       throw new Error("Failed to sign transaction");
     }
 
-    const setupResult = await sendSignedTransaction({
-      connection,
-      signedTransaction: fullySigned[0],
-    });
-    console.log(setupResult);
-    notify({
-      message: "Claim setup succeeded",
-      description: (
-        <HyperLink href={explorerLinkFor(setupResult.txid, connection)}>
-          View transaction on explorer
-        </HyperLink>
-      ),
-    });
-
     const claimResult = await sendSignedTransaction({
       connection,
-      signedTransaction: fullySigned[1],
+      signedTransaction: fullySigned,
     });
 
     console.log(claimResult);
@@ -1130,39 +1077,6 @@ export const Claim = (
         onChange={(e) => setAmount(e.target.value)}
         disabled={!editable}
       />}
-      <FormControl fullWidth>
-        <InputLabel
-          id="comm-method-label"
-          disabled={!editable}
-        >
-          Distribution Method
-        </InputLabel>
-        <Select
-          labelId="comm-method-label"
-          id="comm-method-select"
-          value={commMethod}
-          label="Distribution Method"
-          onChange={(e) => {
-            if (e.target.value === "discord") {
-              notify({
-                message: "Discord distribution unavailable",
-                description: "Please use the CLI for this. Discord does not support browser-connection requests",
-              });
-              return;
-            }
-            localStorage.setItem("commMethod", e.target.value);
-            setCommMethod(e.target.value);
-          }}
-          style={{textAlign: "left"}}
-          disabled={!editable}
-        >
-          <MenuItem value={"aws-email"}>AWS Email</MenuItem>
-          <MenuItem value={"aws-sms"}>AWS SMS</MenuItem>
-          <MenuItem value={"discord"}>Discord</MenuItem>
-          <MenuItem value={"wallets"}>Wallets</MenuItem>
-          <MenuItem value={"manual"}>Manual</MenuItem>
-        </Select>
-      </FormControl>
       <TextField
         id="handle-text-field"
         label="Handle"
@@ -1192,12 +1106,12 @@ export const Claim = (
         onChange={(e) => setProof(e.target.value)}
         disabled={!editable}
       />
-      <Button
+      {/*<Button
         color="info"
         onClick={() => setEditable(!editable)}
       >
         {!editable ? "Edit Claim" : "Stop Editing"}
-      </Button>
+      </Button>*/}
       <Box />
 
       <Box sx={{ position: "relative" }}>
@@ -1296,3 +1210,4 @@ export const Claim = (
     </Stack>
   );
 };
+
