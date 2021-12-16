@@ -666,8 +666,7 @@ export const Claim = (
     // NB: pin can be empty if handle is a public-key and we are claiming through wallets
     // NB: proof can be empty!
 
-  // const [editable, setEditable] = React.useState(!allFieldsPopulated);
-  const editable = false;
+  const [editable, setEditable] = React.useState(!allFieldsPopulated);
 
   // temporal verification
   const [transaction, setTransaction] = React.useState<Transaction | null>(null);
@@ -1106,12 +1105,12 @@ export const Claim = (
         onChange={(e) => setProof(e.target.value)}
         disabled={!editable}
       />
-      {/*<Button
+      <Button
         color="info"
         onClick={() => setEditable(!editable)}
       >
         {!editable ? "Edit Claim" : "Stop Editing"}
-      </Button>*/}
+      </Button>
       <Box />
 
       <Box sx={{ position: "relative" }}>
@@ -1210,4 +1209,3 @@ export const Claim = (
     </Stack>
   );
 };
-
