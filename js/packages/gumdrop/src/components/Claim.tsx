@@ -643,7 +643,7 @@ export const Claim = (
   const editionStr = params.edition as string || "";
 
   const [handle, setHandle] = React.useState(params.handle as string || "");
-  const amountStr = React.useState(params.amount as string || "");
+  const amountStr = params.amount as string || "";
   const [indexStr, setIndex] = React.useState(params.index as string || "");
   const pinStr = params.pin as string || "";
   const proofStr = params.proof as string || ""
