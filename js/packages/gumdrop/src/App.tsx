@@ -22,6 +22,7 @@ import { Header } from "./components/Header/Header";
 import { Claim } from "./components/Claim";
 import { Close } from "./components/Close";
 import { Create } from "./components/Create";
+import { RedirectHandle } from "./components/RedirectHandle";
 
 const WHITESPACE = "\u00A0";
 
@@ -238,6 +239,7 @@ function App() {
           >
             <Box height="40px" />
             <Switch>
+              <Route path="/gumdrop/redirect" component={RedirectHandle} />
               <Route path="/gumdrop/create" component={Create} />
               <Route path="/gumdrop/claim" component={Claim} />
               <Route path="/gumdrop/close" component={Close} />
