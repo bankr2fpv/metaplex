@@ -1,7 +1,7 @@
 import React from "react";
 import {
   BrowserRouter,
-  Link,
+  // Link,
   Route,
   Switch,
 } from "react-router-dom";
@@ -10,7 +10,7 @@ import { createTheme, ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import {
   Box,
-  Link as HyperLink,
+  // Link as HyperLink,
   Stack,
 } from "@mui/material";
 
@@ -22,20 +22,17 @@ import { Header } from "./components/Header/Header";
 import { Claim } from "./components/Claim";
 import { Close } from "./components/Close";
 import { Create } from "./components/Create";
-import { RedirectHandle } from "./components/RedirectHandle";
 
-const WHITESPACE = "\u00A0";
+// const WHITESPACE = "\u00A0";
 
 const About = () => {
   const summary = (
     <Stack spacing={1}>
       <div>
-      The Gumdrop program leverages the Solana blockchain and merkle trees to
-      facilitate airdrops to a large number of whitelisted users at a low cost
-      to creators.
+      The Beginning of the Mask Guild this is where be rise.
       </div>
 
-      <div>
+      {/* <div>
       In the Solana ecosystem, the cost of token airdrops is currently largely
       due to rent costs being{WHITESPACE}
       <HyperLink
@@ -46,7 +43,7 @@ const About = () => {
       </HyperLink>
       . With the large increase in SOLUSD since genesis, rent costs when
       creating accounts for thousands of users have duly skyrocketed.
-      </div>
+      </div> 
 
       <div>
       Simultaneously, NFT projects often have a presale to early project
@@ -75,13 +72,13 @@ const About = () => {
       allows creators to directly send whitelisted users an airdrop reclamation
       link by building the tree with off-chain handles (e.g email, discord,
       etc) and allowing the user to redeem into any wallet.
-      </div>
+      </div> */}
     </Stack>
   );
 
   const create= (
     <Stack spacing={1}>
-      <Link to={`/gumdrop/create`}>
+      {/* <Link to={`/gumdrop/create`}>
         CREATION
       </Link>
 
@@ -117,13 +114,13 @@ const About = () => {
       NB: When a candy-machine is supplied, update authority for the
       candy-machine will be transferred to the Gumdrop state. This can
       be reclaimed by closing the Gumdrop.
-      </div>
+      </div> */}
     </Stack>
   );
 
   const claim = (
     <Stack spacing={1}>
-      <Link to={`/gumdrop/claim`}>
+      {/* <Link to={`/gumdrop/claim`}>
         CLAIMS
       </Link>
 
@@ -151,7 +148,7 @@ const About = () => {
       <div>
       When closing a candy-machine-integrated distributor, update authority
       will be transferred back to the wallet owner.
-      </div>
+      </div> */}
     </Stack>
   );
 
@@ -239,7 +236,6 @@ function App() {
           >
             <Box height="40px" />
             <Switch>
-              <Route path="/gumdrop/redirect" component={RedirectHandle} />
               <Route path="/gumdrop/create" component={Create} />
               <Route path="/gumdrop/claim" component={Claim} />
               <Route path="/gumdrop/close" component={Close} />
