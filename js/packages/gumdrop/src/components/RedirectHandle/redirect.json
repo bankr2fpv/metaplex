@@ -30,6 +30,7 @@
     "url": "https://presale.pleasedonttell.art/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=31DLuynLxok6YRd2otWQUExxHUdXe4gteEMc5nfVAp2v&amount=3&index=5&proof=6oFyJ8YKLJk6wnvcJ9PkTCE2L3xYpweE9dM2zFHpN9DW,CiLaGdnrcjYBBncf6V3b6ahGKdy2bFCLtzX8FNTnpiMA,G2wTLTwLYYDtigbXDbVRutQLFuVjMcit7PtUDg61tu6G,GtV7n5iM3k7UBdwsfKkYA1R5pspz31X9Xy4pN1VKCEbD,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
+<<<<<<< HEAD
     "handle": "3ePrykUXZargZGyePQXazFCnkzC3ps3vWVjjdfguJSaR",
     "amount": 1,
     "url": "https://presale.pleasedonttell.art/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=3ePrykUXZargZGyePQXazFCnkzC3ps3vWVjjdfguJSaR&amount=1&index=6&proof=6Jk2ayt9S6ZiSUn7fKTa5rH9pyRa7o3GRLeZb1MVEQrG,5gMvSXQFgiWs81LpzkLNaotmsWeX4JHFgz1r82VRu2dW,G2wTLTwLYYDtigbXDbVRutQLFuVjMcit7PtUDg61tu6G,GtV7n5iM3k7UBdwsfKkYA1R5pspz31X9Xy4pN1VKCEbD,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
@@ -221,6 +222,9 @@
   },
   {
     "handle": "G9sEsqifGU59Jx1Dt8e4nAwM4c7szq4y9WscW79fWe9P",
+=======
+    "handle": "66WFAth1SrKRYqPEiLh6xwnn4MNMvUSv3fjaxcwQTVvG",
+>>>>>>> parent of 29b88135 (change claim file and add app.tx)
     "amount": 3,
     "url": "https://presale.pleasedonttell.art/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=G9sEsqifGU59Jx1Dt8e4nAwM4c7szq4y9WscW79fWe9P&amount=3&index=44&proof=2V3r57BoqCspaWGwn9BchKPpgR7wxAvGRqgCoYLBxpFr,3TUa7GrjVyv1ZddHG9CCfhAtCvhjHEVSKkos4bWMg7wA,6SfA8adhJK5eVKFPATEgFxifMENHmM5LfhtwpBUUdy1j,FjjCu3Xoksc5btgKTHojRizbHxcoLq4S8XBr6EbmoT4x,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
