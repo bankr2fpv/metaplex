@@ -1,267 +1,502 @@
 [
   {
-    "handle": "2biS2Qdcf8xt3vaV6hbFyuujVZP38KdGwWXzte1QVax7",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=2biS2Qdcf8xt3vaV6hbFyuujVZP38KdGwWXzte1QVax7&amount=1&index=0&proof=DtS9Thi29pFVrfc2aLkkY2NfYkn4q77eU1FbWJ9fNwac,8sMnYHUmBXKtrXXHAsiydkzqPeETiVzXBR4TfM3HoacX,9XDd9CnUV86MFzEYvTCsGp1V4cKDk694Ege5BKUzAUQS,GtV7n5iM3k7UBdwsfKkYA1R5pspz31X9Xy4pN1VKCEbD,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "C6q8TxsgpTtVH3y6Fp6CD635CYPevvJzrF9mwR2xLAQF",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=C6q8TxsgpTtVH3y6Fp6CD635CYPevvJzrF9mwR2xLAQF&amount=3&index=0&proof=AcTrsz1mGoUhqU1sAWu5pKX1qzEq1pWKaaZCiMpMkTpM,5TgN6AD3iVxPhWHJ4FMmWwXi4K3wcMxSvMD8TQUYDTZS,7A5L4nMLeyS2eCWSkrh3VxX1Xojb53wd89DFwT5zQFSm,2WA1fQca1yh3PH4MJ2NcR2Y6GgRQJGvNWhpdrSvmd98i,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "w4cXP81X6zEoVVPAsuj1544vAMzWoyKrYTrpP4dBa4L",
-    "amount": 10,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=w4cXP81X6zEoVVPAsuj1544vAMzWoyKrYTrpP4dBa4L&amount=10&index=1&proof=eW1Ph5LzWmfDU78Huu3Hf3pPkR5bRBgvYMTDtqH1TuB,8sMnYHUmBXKtrXXHAsiydkzqPeETiVzXBR4TfM3HoacX,9XDd9CnUV86MFzEYvTCsGp1V4cKDk694Ege5BKUzAUQS,GtV7n5iM3k7UBdwsfKkYA1R5pspz31X9Xy4pN1VKCEbD,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "DFGTFrykBrBhSD37sA4wGLgicWSo5Dy8zjpDvQpu1Cdy",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=DFGTFrykBrBhSD37sA4wGLgicWSo5Dy8zjpDvQpu1Cdy&amount=3&index=1&proof=5adJQ33xGHZYfjjrKxCoT6RoKpS77N1bDzMKAMSDj8eF,5TgN6AD3iVxPhWHJ4FMmWwXi4K3wcMxSvMD8TQUYDTZS,7A5L4nMLeyS2eCWSkrh3VxX1Xojb53wd89DFwT5zQFSm,2WA1fQca1yh3PH4MJ2NcR2Y6GgRQJGvNWhpdrSvmd98i,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "2bNyHjtfpP3j43H4URp25GxyCGjVjaRU8hBCLBkk9iRt",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=2bNyHjtfpP3j43H4URp25GxyCGjVjaRU8hBCLBkk9iRt&amount=1&index=2&proof=BFxAks9USiVdP3VptZm3UaCY9PUvQEDKAJVemZFTK1vX,BMKo44Qk5YA3qRPzw3W52qrouw6BfECPyg3CCcrE17RJ,9XDd9CnUV86MFzEYvTCsGp1V4cKDk694Ege5BKUzAUQS,GtV7n5iM3k7UBdwsfKkYA1R5pspz31X9Xy4pN1VKCEbD,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "6Up6xsUehhZXLKXuRnwtSrQgayjqpwyu4ZsyKrMrNk7",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=6Up6xsUehhZXLKXuRnwtSrQgayjqpwyu4ZsyKrMrNk7&amount=3&index=2&proof=GdzVK1Ch4wGHAH3DeXsxW1frLqjQojyyLkN8k1hdapQz,4R5LgUNdfKMZm8tBJ1CAzNBk2e33Z9WR1Ak8pLVye8hF,7A5L4nMLeyS2eCWSkrh3VxX1Xojb53wd89DFwT5zQFSm,2WA1fQca1yh3PH4MJ2NcR2Y6GgRQJGvNWhpdrSvmd98i,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "2KLKn4PFamDAp1BCGNW5h5g2x8fsHLa4QLDmQiNEPA74",
-    "amount": 5,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=2KLKn4PFamDAp1BCGNW5h5g2x8fsHLa4QLDmQiNEPA74&amount=5&index=3&proof=5v1iZbywQhXHqwiSg5VayN5oLCokB1TPafxJHa4ZjVao,BMKo44Qk5YA3qRPzw3W52qrouw6BfECPyg3CCcrE17RJ,9XDd9CnUV86MFzEYvTCsGp1V4cKDk694Ege5BKUzAUQS,GtV7n5iM3k7UBdwsfKkYA1R5pspz31X9Xy4pN1VKCEbD,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "NtJKpE322tqxdAjpwVzH5HZLz4VAuJQD74vBGMtfud1",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=NtJKpE322tqxdAjpwVzH5HZLz4VAuJQD74vBGMtfud1&amount=3&index=3&proof=8S9zM8K8HU7QLXgsTwzwxtRD6dTnZt6DH94HGxbj7KhT,4R5LgUNdfKMZm8tBJ1CAzNBk2e33Z9WR1Ak8pLVye8hF,7A5L4nMLeyS2eCWSkrh3VxX1Xojb53wd89DFwT5zQFSm,2WA1fQca1yh3PH4MJ2NcR2Y6GgRQJGvNWhpdrSvmd98i,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "2TWma7cRRkWSqcNd6Eb9M8s37yopY6m2JNWE55WPix9J",
-    "amount": 2,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=2TWma7cRRkWSqcNd6Eb9M8s37yopY6m2JNWE55WPix9J&amount=2&index=4&proof=EaDgCRZKWekcGbuJpThwyxUrP6KzLTUxnymHiV8wVfsL,CiLaGdnrcjYBBncf6V3b6ahGKdy2bFCLtzX8FNTnpiMA,G2wTLTwLYYDtigbXDbVRutQLFuVjMcit7PtUDg61tu6G,GtV7n5iM3k7UBdwsfKkYA1R5pspz31X9Xy4pN1VKCEbD,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "C9cMg3V2sAKXJR5PJ437faxeJKRyinqX5ix9gn3goBvg",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=C9cMg3V2sAKXJR5PJ437faxeJKRyinqX5ix9gn3goBvg&amount=3&index=4&proof=Hgr6x372dGVh9VPUmsthsQSLh7LFtZFVqDPxdyZcTo33,CgYC5DYjtAAhQGpxdrJHay91iLoAEht2V2HhTG169iMA,AqezuvREiM7yXMkTs1M4mhv1X3zPHQSZgXed41K79jJa,2WA1fQca1yh3PH4MJ2NcR2Y6GgRQJGvNWhpdrSvmd98i,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "31DLuynLxok6YRd2otWQUExxHUdXe4gteEMc5nfVAp2v",
-    "amount": 3,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=31DLuynLxok6YRd2otWQUExxHUdXe4gteEMc5nfVAp2v&amount=3&index=5&proof=6oFyJ8YKLJk6wnvcJ9PkTCE2L3xYpweE9dM2zFHpN9DW,CiLaGdnrcjYBBncf6V3b6ahGKdy2bFCLtzX8FNTnpiMA,G2wTLTwLYYDtigbXDbVRutQLFuVjMcit7PtUDg61tu6G,GtV7n5iM3k7UBdwsfKkYA1R5pspz31X9Xy4pN1VKCEbD,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "HwZPMmaU1WX1njBhoMQqqGsxtzukoWq74nQjWuUAtYUr",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=HwZPMmaU1WX1njBhoMQqqGsxtzukoWq74nQjWuUAtYUr&amount=3&index=5&proof=7qipqZD7KgbxqmskKtJEXN6wFqhYGVxdaADcgFU7WQDD,CgYC5DYjtAAhQGpxdrJHay91iLoAEht2V2HhTG169iMA,AqezuvREiM7yXMkTs1M4mhv1X3zPHQSZgXed41K79jJa,2WA1fQca1yh3PH4MJ2NcR2Y6GgRQJGvNWhpdrSvmd98i,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "3ePrykUXZargZGyePQXazFCnkzC3ps3vWVjjdfguJSaR",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=3ePrykUXZargZGyePQXazFCnkzC3ps3vWVjjdfguJSaR&amount=1&index=6&proof=6Jk2ayt9S6ZiSUn7fKTa5rH9pyRa7o3GRLeZb1MVEQrG,5gMvSXQFgiWs81LpzkLNaotmsWeX4JHFgz1r82VRu2dW,G2wTLTwLYYDtigbXDbVRutQLFuVjMcit7PtUDg61tu6G,GtV7n5iM3k7UBdwsfKkYA1R5pspz31X9Xy4pN1VKCEbD,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "FjsHeKTsvxY7qTJSovWBtCcvjvu4hD5LDGaagnfJvjAu",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=FjsHeKTsvxY7qTJSovWBtCcvjvu4hD5LDGaagnfJvjAu&amount=3&index=6&proof=33Rtn8RNBJtJnDE12TPZzCKANGw5S6jt6hKTMpxSwZKc,8UFfcjEYXTGJhgBf83udrGzGLrfmtDQypwNBThYJD2iq,AqezuvREiM7yXMkTs1M4mhv1X3zPHQSZgXed41K79jJa,2WA1fQca1yh3PH4MJ2NcR2Y6GgRQJGvNWhpdrSvmd98i,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "3xkVJxEZzbJDomzx3Q2Aukg8gTrFpgza2tFXfNoNbiaQ",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=3xkVJxEZzbJDomzx3Q2Aukg8gTrFpgza2tFXfNoNbiaQ&amount=1&index=7&proof=Eqa2ZA4zuSQzUZBPS1sbNdmXkcn5vwuabwk1mBawUW65,5gMvSXQFgiWs81LpzkLNaotmsWeX4JHFgz1r82VRu2dW,G2wTLTwLYYDtigbXDbVRutQLFuVjMcit7PtUDg61tu6G,GtV7n5iM3k7UBdwsfKkYA1R5pspz31X9Xy4pN1VKCEbD,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "3YEcsWmWQ9KJVZMh7aZS7oiH2Vpa4jZKV8pZtgzK8cwp",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=3YEcsWmWQ9KJVZMh7aZS7oiH2Vpa4jZKV8pZtgzK8cwp&amount=3&index=7&proof=BoeudW3bjHaHvZ3pMv1CL8PnCsDfpmQV84kg94K4mxxr,8UFfcjEYXTGJhgBf83udrGzGLrfmtDQypwNBThYJD2iq,AqezuvREiM7yXMkTs1M4mhv1X3zPHQSZgXed41K79jJa,2WA1fQca1yh3PH4MJ2NcR2Y6GgRQJGvNWhpdrSvmd98i,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "4D2dYpJYwyDdT8n9DtFiyLW5C1B6RQJ5qjjZj2bLohTp",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=4D2dYpJYwyDdT8n9DtFiyLW5C1B6RQJ5qjjZj2bLohTp&amount=1&index=8&proof=MtXafhudf27KguWiigRsnSGXjzCi9DU1s8k11RjzMoB,2yo48HYgsuMFLQYdeLj6Eu8feLeYBXq9GsjfQAubDinb,3ajohWTqBVYi777ABGef1X8DxXyChe8wASm7VkAiVqKY,3uhsYNC2DEqSnWqpNGh1A29VPAQ93JfVcvMTEt2nHxEC,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "8cA3p6u6rsQQ6doqD4yMNUUTesoQ6gpxU2uCCbJaVU1m",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=8cA3p6u6rsQQ6doqD4yMNUUTesoQ6gpxU2uCCbJaVU1m&amount=3&index=8&proof=5PrQCkJhbfBqzdV9gjkeWi4kChCSyHiiu5JWuZg7Rcam,EXG7SCstgnnyA9SzQ1bp1MqFkVNKPRtdrbEE9ZVadVeK,Eihd1rrcZToknhhphw5h6sZiJ5cUdYTb62AxE4auJBmY,8c5YFv9wvAV7Dsym2oTyZgND37M7LHtRzNS5W8GEZVvB,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "4pDhqtKtS8qw3cdZzx33oPEFKfSprGo3fs8vLX8JznBY",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=4pDhqtKtS8qw3cdZzx33oPEFKfSprGo3fs8vLX8JznBY&amount=1&index=9&proof=7k35WucsgDB5zwCTKDCFhAch38odstaWAZasP11pN12Y,2yo48HYgsuMFLQYdeLj6Eu8feLeYBXq9GsjfQAubDinb,3ajohWTqBVYi777ABGef1X8DxXyChe8wASm7VkAiVqKY,3uhsYNC2DEqSnWqpNGh1A29VPAQ93JfVcvMTEt2nHxEC,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "Ep6xyfzrPmtWZj41SqpDXRZPWGd1u1iikthVFRVXkMBc",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=Ep6xyfzrPmtWZj41SqpDXRZPWGd1u1iikthVFRVXkMBc&amount=3&index=9&proof=Gmym2mpcKKXjMHSmFESe2maDp95GC9AC2VjE79mrmD2T,EXG7SCstgnnyA9SzQ1bp1MqFkVNKPRtdrbEE9ZVadVeK,Eihd1rrcZToknhhphw5h6sZiJ5cUdYTb62AxE4auJBmY,8c5YFv9wvAV7Dsym2oTyZgND37M7LHtRzNS5W8GEZVvB,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "5141Pon7gQJE2KUcLBAj6RpcM2d2sexxTM4uFuhGAbDn",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=5141Pon7gQJE2KUcLBAj6RpcM2d2sexxTM4uFuhGAbDn&amount=1&index=10&proof=CXucMNkMB8QL2XDziQdiepwrUb1Ecba31413BMXxPtmN,CCunDtEdLndeiA7ePGjBmUkGNMMezifhkG6ZHDCdLY5F,3ajohWTqBVYi777ABGef1X8DxXyChe8wASm7VkAiVqKY,3uhsYNC2DEqSnWqpNGh1A29VPAQ93JfVcvMTEt2nHxEC,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "97AoyGGbRRf6zANM7TMSviqegYVrueezi3sGpqcSgvEX",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=97AoyGGbRRf6zANM7TMSviqegYVrueezi3sGpqcSgvEX&amount=3&index=10&proof=ErXaGEWKaJmUgZxJ6JTozxoMmMgZc6zbeGC36xMDEmgV,HhfM7DqzLmcHCxVrCuPZcaqGZ2GCAzYaW8VGwFcSkQMF,Eihd1rrcZToknhhphw5h6sZiJ5cUdYTb62AxE4auJBmY,8c5YFv9wvAV7Dsym2oTyZgND37M7LHtRzNS5W8GEZVvB,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "52sDun8hQGAF3vDBcG3XLVMJkBL3vpXUpnhRsEsmyWUJ",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=52sDun8hQGAF3vDBcG3XLVMJkBL3vpXUpnhRsEsmyWUJ&amount=1&index=11&proof=FnsxrMbtgWgY8fCKWFrHk6iuA9iD9uVnf5LLPrA4wpHz,CCunDtEdLndeiA7ePGjBmUkGNMMezifhkG6ZHDCdLY5F,3ajohWTqBVYi777ABGef1X8DxXyChe8wASm7VkAiVqKY,3uhsYNC2DEqSnWqpNGh1A29VPAQ93JfVcvMTEt2nHxEC,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "HXrr6MePyuPw9hwqV9jek5Zyxeo7AEiNxoTy55JcThyg",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=HXrr6MePyuPw9hwqV9jek5Zyxeo7AEiNxoTy55JcThyg&amount=3&index=11&proof=AXnqmRwowQvDSdPYe3wrDzkqgaTFFYWdpnvPoFzVdeVd,HhfM7DqzLmcHCxVrCuPZcaqGZ2GCAzYaW8VGwFcSkQMF,Eihd1rrcZToknhhphw5h6sZiJ5cUdYTb62AxE4auJBmY,8c5YFv9wvAV7Dsym2oTyZgND37M7LHtRzNS5W8GEZVvB,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "5ktP7bngyc6sX9KGd8ETonPH1fz9rpeXKaJZ5rYHFbj9",
-    "amount": 2,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=5ktP7bngyc6sX9KGd8ETonPH1fz9rpeXKaJZ5rYHFbj9&amount=2&index=12&proof=8z9CwT9LWAZ7M6XTXbp2T7qhZtdrK1MoeZm8NWWPcz5t,AMpkPZsLmUvJf5qcw8vjAgxNbsdUADhBC8NkVocghKfi,7iwsAwzXTMVuUzht9BRvKEi93PVq3YKcFdMrA7dtT2B2,3uhsYNC2DEqSnWqpNGh1A29VPAQ93JfVcvMTEt2nHxEC,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "DcD7Dy7ZAYUaWfRJFSS5kQDTTgzVCbou45hrQV3rjsDk",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=DcD7Dy7ZAYUaWfRJFSS5kQDTTgzVCbou45hrQV3rjsDk&amount=3&index=12&proof=5a6nkRCpUFrLjVrp55Tbnr5D2mAy2fnWMF8f9UvSz7e9,6X5qfacWmvDMHe89z8tvENuACSNVNJzWBMJT8vPkyhbn,GAGHmNtWBWagRqhBqwkJoRNQkwqBNy2yfQCxHYyF4opC,8c5YFv9wvAV7Dsym2oTyZgND37M7LHtRzNS5W8GEZVvB,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "5p5TzPX3SDeTszPy1rsk5QG28BP7xEB989swbJXP5fwN",
-    "amount": 2,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=5p5TzPX3SDeTszPy1rsk5QG28BP7xEB989swbJXP5fwN&amount=2&index=13&proof=CfFPojaQmqcgXDCBVoGz26csFrxNy6zTzjniuPQRdEvD,AMpkPZsLmUvJf5qcw8vjAgxNbsdUADhBC8NkVocghKfi,7iwsAwzXTMVuUzht9BRvKEi93PVq3YKcFdMrA7dtT2B2,3uhsYNC2DEqSnWqpNGh1A29VPAQ93JfVcvMTEt2nHxEC,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "HwMWoxrib82yKKQEdC7fsFQ4t7V4LRq2xfZTkptcmceA",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=HwMWoxrib82yKKQEdC7fsFQ4t7V4LRq2xfZTkptcmceA&amount=3&index=13&proof=6KwVyMPLj4gj7AhadgtbgCr9apFFaAqH3t2ZwavddPcH,6X5qfacWmvDMHe89z8tvENuACSNVNJzWBMJT8vPkyhbn,GAGHmNtWBWagRqhBqwkJoRNQkwqBNy2yfQCxHYyF4opC,8c5YFv9wvAV7Dsym2oTyZgND37M7LHtRzNS5W8GEZVvB,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "66Xz459nAxyrjRa9xQXnhr5kNsDxX8MPg3syeXFk3K5j",
-    "amount": 2,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=66Xz459nAxyrjRa9xQXnhr5kNsDxX8MPg3syeXFk3K5j&amount=2&index=14&proof=9dG2ByguWBUAea9H12WjrDpomvCM2vBq1Q9K4vrAxtae,EJMVKrPi8qL5oFegdSBhsLEjtFboLn3zodqTXX3hyP3B,7iwsAwzXTMVuUzht9BRvKEi93PVq3YKcFdMrA7dtT2B2,3uhsYNC2DEqSnWqpNGh1A29VPAQ93JfVcvMTEt2nHxEC,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "7bJxBhYQ7kZazv3Py1T6HbEzNMXKhhrWrEfuFi2Ubt2C",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=7bJxBhYQ7kZazv3Py1T6HbEzNMXKhhrWrEfuFi2Ubt2C&amount=3&index=14&proof=FzbWJAjcN9gZrEhqNcqrK33ZiiQzN4HSibe7CodQ8YXm,xXgyAXvkHodiv1bwghX8tF75xgkg7nAgtWKTQ4xVneC,GAGHmNtWBWagRqhBqwkJoRNQkwqBNy2yfQCxHYyF4opC,8c5YFv9wvAV7Dsym2oTyZgND37M7LHtRzNS5W8GEZVvB,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "6jhaJLArwx3jtfYRkCNaPfYieHyWBanNZGNsNGc2W4tN",
-    "amount": 2,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=6jhaJLArwx3jtfYRkCNaPfYieHyWBanNZGNsNGc2W4tN&amount=2&index=15&proof=3hzK5UuNwdjST8yKLvCdoiNujVUcnEPrJkUhiq51Qy6L,EJMVKrPi8qL5oFegdSBhsLEjtFboLn3zodqTXX3hyP3B,7iwsAwzXTMVuUzht9BRvKEi93PVq3YKcFdMrA7dtT2B2,3uhsYNC2DEqSnWqpNGh1A29VPAQ93JfVcvMTEt2nHxEC,7kF6WaA3G2qLkPgyk7coFhfcTuudywWj9JTxZ1PCBBv8,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "D4z23t4xzzL9qBvyEwEdT7nL3HB5Htz2u6r1R3hYZ7e4",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=D4z23t4xzzL9qBvyEwEdT7nL3HB5Htz2u6r1R3hYZ7e4&amount=3&index=15&proof=Fj2Kv4bAQyMoWeTqPPT1ZYxCTTGPDdPkPACTS3yFXfHB,xXgyAXvkHodiv1bwghX8tF75xgkg7nAgtWKTQ4xVneC,GAGHmNtWBWagRqhBqwkJoRNQkwqBNy2yfQCxHYyF4opC,8c5YFv9wvAV7Dsym2oTyZgND37M7LHtRzNS5W8GEZVvB,2acnLGGxzz8iSmYGAswgitUsupot5NAQj4iAe58NuKdH,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "6szyLJU4J3hxUdDo4KiAixSBELVmgfnUNDMsBRY21mQb",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=6szyLJU4J3hxUdDo4KiAixSBELVmgfnUNDMsBRY21mQb&amount=1&index=16&proof=A7Hhjeyy5peKtKX6KJsX92rJ5SACgHeoDFKFnnKFxq9c,467DZyedWoWAsRtES5jcKrhB3dGXnXC8RzNBTSbXi5U5,3gxRmMDXQScTR7Howm3NhbPo4JzYfLWdh6oyp5CaqviW,97Y37Ca7HB8iz9Svxy4cidRtXHXNQPz7RWbZEhYuixMY,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "8K4qG9g7UCrGhp4eeqNKgLbyUp3Qze31J9m4N7Pokfoa",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=8K4qG9g7UCrGhp4eeqNKgLbyUp3Qze31J9m4N7Pokfoa&amount=3&index=16&proof=9suhnRWbrtGoRqbquvU7YVssG2zQ7jsUmBZLF1eJXkpE,8MopMGn9Hd3dkuEZrNL9jkruY37m1KCVkKRSVHLoVn5X,EUh9XR2XX5xu2tZdeq9NHddQf6yMywNJgVnoVPJCXCn6,D5wSGFDpn8wScvuvxyUoujhzSEmC1bo5Kt67RhNtSSSD,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "79bo7KJc79ufoWijW57Cayuma2tdJXvm9BDPkWt91S3N",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=79bo7KJc79ufoWijW57Cayuma2tdJXvm9BDPkWt91S3N&amount=1&index=17&proof=ASQEZCpyu7L1n2NPtiLfNiWKz9ifMiRM1fDssj4erVqZ,467DZyedWoWAsRtES5jcKrhB3dGXnXC8RzNBTSbXi5U5,3gxRmMDXQScTR7Howm3NhbPo4JzYfLWdh6oyp5CaqviW,97Y37Ca7HB8iz9Svxy4cidRtXHXNQPz7RWbZEhYuixMY,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "9YFeS5gjy7y8KHEEvVgnvC9JXPKJnsYfLD1zqP6RkGpQ",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=9YFeS5gjy7y8KHEEvVgnvC9JXPKJnsYfLD1zqP6RkGpQ&amount=3&index=17&proof=H27cicL1cNM5gJajX2qWFSQbPvjP1Tp2Y1DBcSPrLwWu,8MopMGn9Hd3dkuEZrNL9jkruY37m1KCVkKRSVHLoVn5X,EUh9XR2XX5xu2tZdeq9NHddQf6yMywNJgVnoVPJCXCn6,D5wSGFDpn8wScvuvxyUoujhzSEmC1bo5Kt67RhNtSSSD,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "7hQUPkeg3AVqya2UX4s4MqZq6upYde1rKZ1No3WYuT4u",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=7hQUPkeg3AVqya2UX4s4MqZq6upYde1rKZ1No3WYuT4u&amount=1&index=18&proof=2nYccsAysGr5ptnYyex7qxhRHpBAQPfsh1Uhxkn8Cd8b,4zVuhyF8AVPq18YorvQxcanHvtxaFDpEJAubJvg7d8FK,3gxRmMDXQScTR7Howm3NhbPo4JzYfLWdh6oyp5CaqviW,97Y37Ca7HB8iz9Svxy4cidRtXHXNQPz7RWbZEhYuixMY,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "9iaeS3KW4hNBjN6pHJAgAd6Ze3punLewXHKg87pCMwgK",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=9iaeS3KW4hNBjN6pHJAgAd6Ze3punLewXHKg87pCMwgK&amount=3&index=18&proof=rxphcSy6xUHoNLN6eLHDjgxM6D7pawN7C2vZPykGDPN,3jpD5iU47cXFtpP7fGh5MkDyAEtzG56zk1pqhVJNYgdb,EUh9XR2XX5xu2tZdeq9NHddQf6yMywNJgVnoVPJCXCn6,D5wSGFDpn8wScvuvxyUoujhzSEmC1bo5Kt67RhNtSSSD,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "8gMjYPuRPuQmQqcNqgdQWfGBUwAkUxVKKm6AuiaoFXvE",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=8gMjYPuRPuQmQqcNqgdQWfGBUwAkUxVKKm6AuiaoFXvE&amount=1&index=19&proof=3VPAMgEMvk33Z6QhXCnzCBKdv98UE3LgLoCQ8amuhRvt,4zVuhyF8AVPq18YorvQxcanHvtxaFDpEJAubJvg7d8FK,3gxRmMDXQScTR7Howm3NhbPo4JzYfLWdh6oyp5CaqviW,97Y37Ca7HB8iz9Svxy4cidRtXHXNQPz7RWbZEhYuixMY,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "2u6PUHNtq49DcdMNANpY33j7949RshDRtP9BKgG4ceWy",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=2u6PUHNtq49DcdMNANpY33j7949RshDRtP9BKgG4ceWy&amount=3&index=19&proof=AmEYqfev6rb2HLXGAKeW3oNee5wQJXchXEPtmzF2teuP,3jpD5iU47cXFtpP7fGh5MkDyAEtzG56zk1pqhVJNYgdb,EUh9XR2XX5xu2tZdeq9NHddQf6yMywNJgVnoVPJCXCn6,D5wSGFDpn8wScvuvxyUoujhzSEmC1bo5Kt67RhNtSSSD,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "8L93HZ8KjHKgXqFxc7VNWPtzs2FvLvy4pvAC65bxFGj6",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=8L93HZ8KjHKgXqFxc7VNWPtzs2FvLvy4pvAC65bxFGj6&amount=1&index=20&proof=CCD5Jyo2PkpUn2Dmf1fDFk5o1pA6y9cbxri1cBw7e5rv,C4Pm4q1wpTxFM28GFo9cTiBQbgNCywM4LpCcUNBWyxcY,CKRp26vBE9G7nwUNcawiuJbXevuMfZpCZ8ZduRGZduna,97Y37Ca7HB8iz9Svxy4cidRtXHXNQPz7RWbZEhYuixMY,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "BLSnxjMuVvSThxi7b4d5XqCGymPiVtgdKzTz4JRX3DmF",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=BLSnxjMuVvSThxi7b4d5XqCGymPiVtgdKzTz4JRX3DmF&amount=3&index=20&proof=8v4yn28HDcKDbfoNfdwmj7jfqzs8QiDNt6AZoq1APci9,5JaDRu1fiSdxQpT6hMmfDvdS535ZT9cpY7hCUfRiJpmD,AMfE7YBfGzz7jweajwviWpJ14nunUh56aMWXTQ3D3wsR,D5wSGFDpn8wScvuvxyUoujhzSEmC1bo5Kt67RhNtSSSD,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "8PLSQEDsJSK6gbBGAn4p7AqqSyRZzkg1mu2LEArpiuaa",
-    "amount": 5,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=8PLSQEDsJSK6gbBGAn4p7AqqSyRZzkg1mu2LEArpiuaa&amount=5&index=21&proof=BJG2VuDKtHKMY1auG1nVzKR7VgbXosAyuZHeE6m8kgSs,C4Pm4q1wpTxFM28GFo9cTiBQbgNCywM4LpCcUNBWyxcY,CKRp26vBE9G7nwUNcawiuJbXevuMfZpCZ8ZduRGZduna,97Y37Ca7HB8iz9Svxy4cidRtXHXNQPz7RWbZEhYuixMY,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "84J8hsxz3uKsJ1PX2giHo3CEHkYtfy7vgk1CxLbGzhTw",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=84J8hsxz3uKsJ1PX2giHo3CEHkYtfy7vgk1CxLbGzhTw&amount=3&index=21&proof=5tSRwEbscH3dMM29xA6u2eo8Pqnbk7gCBSUJicDTHsrm,5JaDRu1fiSdxQpT6hMmfDvdS535ZT9cpY7hCUfRiJpmD,AMfE7YBfGzz7jweajwviWpJ14nunUh56aMWXTQ3D3wsR,D5wSGFDpn8wScvuvxyUoujhzSEmC1bo5Kt67RhNtSSSD,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "8qfjjAdeyF8nDZ4LjAzs5yMXr6AcTybDnbnFHcJ8G6DV",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=8qfjjAdeyF8nDZ4LjAzs5yMXr6AcTybDnbnFHcJ8G6DV&amount=1&index=22&proof=GmT7Eq3E7Y5gEzDmEwVx56jXxz83YbD5nF3jmsZhFVJe,HU1z4Hck7Q2cJsC12oY4PY9UePmVdViypBB23He1itJB,CKRp26vBE9G7nwUNcawiuJbXevuMfZpCZ8ZduRGZduna,97Y37Ca7HB8iz9Svxy4cidRtXHXNQPz7RWbZEhYuixMY,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "8UnaqJuASvM4D3EBTHA64dJch8Pue9D3fArRjB1WsQz1",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=8UnaqJuASvM4D3EBTHA64dJch8Pue9D3fArRjB1WsQz1&amount=3&index=22&proof=68jsrdRMDbMohgQBkjPw3z4WBuBPYT38T3uraoALfcbt,F5rgFS9XqZgeEYpyA4N8AMWaFcwu9fxqr2AnciqGyUQK,AMfE7YBfGzz7jweajwviWpJ14nunUh56aMWXTQ3D3wsR,D5wSGFDpn8wScvuvxyUoujhzSEmC1bo5Kt67RhNtSSSD,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "8qVUxVnNhBRECttyD3JPP2xGpMYmfmEmCcPNj5WMMLAR",
-    "amount": 3,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=8qVUxVnNhBRECttyD3JPP2xGpMYmfmEmCcPNj5WMMLAR&amount=3&index=23&proof=HUUmX7PHQRbNQm2qHfRDG6xKbZRJx1gaDrwMoPqG5WSp,HU1z4Hck7Q2cJsC12oY4PY9UePmVdViypBB23He1itJB,CKRp26vBE9G7nwUNcawiuJbXevuMfZpCZ8ZduRGZduna,97Y37Ca7HB8iz9Svxy4cidRtXHXNQPz7RWbZEhYuixMY,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "dyHgDbxapUA43zSamvx8qaRc2z8iZdUhnPP6VUuA1FK",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=dyHgDbxapUA43zSamvx8qaRc2z8iZdUhnPP6VUuA1FK&amount=3&index=23&proof=G87xWAQW1NsWeuvxqgHFawjaoA49bqK6aTZcaQTLMeai,F5rgFS9XqZgeEYpyA4N8AMWaFcwu9fxqr2AnciqGyUQK,AMfE7YBfGzz7jweajwviWpJ14nunUh56aMWXTQ3D3wsR,D5wSGFDpn8wScvuvxyUoujhzSEmC1bo5Kt67RhNtSSSD,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "97HHHCPwE1WLpThWmqePdQjwy2uyuDZVCixKGNTSadwf",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=97HHHCPwE1WLpThWmqePdQjwy2uyuDZVCixKGNTSadwf&amount=1&index=24&proof=9Z4aBE2QZ8mLDESdnepR9LdLBTss3wSJy3rNLC2Vm6Fs,8MXFLHryjsRDiJnhhjkbcPhpceRzfpbbR35dBtViBTbi,8tmdqqp36V8mTzHXqTMsB9SKo2pAbcmFfYgcu54Puo8i,PWNJiKoj7PhddS5AAquxRWk9JUkaD95yFD3LqgjYhzX,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "AXScXyDJQwmXnD2mXQmNmepZFNSc41EQdR3UxLPMHn2y",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=AXScXyDJQwmXnD2mXQmNmepZFNSc41EQdR3UxLPMHn2y&amount=3&index=24&proof=CkBFZmpQAtSciMLeGiikwr34LHzV454EaiCft4fpXRjt,3Pw48eb9mX9t9ApXht6jVGikeN8rWWRgsetJCKo7LPjT,65SbeLN7hUdtugSzSLNXnBb3nJ4NGcckWV9BdZ4wMxXF,7cphZkcUi2n3yxnQsj7fxV4Xn4CVBAxu8oxtbBJ4ksts,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "9gAvJ3tKnDB9TxAs3aU8d4J5zjYDxN5bkE8F7krbqv4w",
-    "amount": 3,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=9gAvJ3tKnDB9TxAs3aU8d4J5zjYDxN5bkE8F7krbqv4w&amount=3&index=25&proof=8DnmDaKJdBkQkZSKN5DTyW9SmEz2a9KhJsPahth2DU7f,8MXFLHryjsRDiJnhhjkbcPhpceRzfpbbR35dBtViBTbi,8tmdqqp36V8mTzHXqTMsB9SKo2pAbcmFfYgcu54Puo8i,PWNJiKoj7PhddS5AAquxRWk9JUkaD95yFD3LqgjYhzX,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "EKjSTZ6LR12nJE8gcrRBUus6UEZS2FzQWhDPYRruLbxk",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=EKjSTZ6LR12nJE8gcrRBUus6UEZS2FzQWhDPYRruLbxk&amount=3&index=25&proof=8M6NsrXxXNo4ohD4qszn7eHENQQWUBPDwjWad6txboZH,3Pw48eb9mX9t9ApXht6jVGikeN8rWWRgsetJCKo7LPjT,65SbeLN7hUdtugSzSLNXnBb3nJ4NGcckWV9BdZ4wMxXF,7cphZkcUi2n3yxnQsj7fxV4Xn4CVBAxu8oxtbBJ4ksts,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "9ZmbXcQHzj1baXw3zXUS4GKWCWCUhNfccCuDdVNHfDWy",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=9ZmbXcQHzj1baXw3zXUS4GKWCWCUhNfccCuDdVNHfDWy&amount=1&index=26&proof=B2WFCA2iuQdcmtFwELiLeEqq2f4C8uzZevYbuJ1pYjeL,6HDGU8G94uSGUYxjgfSVdUxD6u5Ryaakp4GpPG6U4CFW,8tmdqqp36V8mTzHXqTMsB9SKo2pAbcmFfYgcu54Puo8i,PWNJiKoj7PhddS5AAquxRWk9JUkaD95yFD3LqgjYhzX,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "HALBghDnt63kFquyCWQsRLQ55RkC1kCgqPRuTMu7moYJ",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=HALBghDnt63kFquyCWQsRLQ55RkC1kCgqPRuTMu7moYJ&amount=3&index=26&proof=FjXqgXGK57ePHpbi7ay5p6831akhPeKyDAmk6q5ZQMcS,2DDto9meYvaNSKUgg1Qhpo3NGvLSFco7yDeqCcUY8pBo,65SbeLN7hUdtugSzSLNXnBb3nJ4NGcckWV9BdZ4wMxXF,7cphZkcUi2n3yxnQsj7fxV4Xn4CVBAxu8oxtbBJ4ksts,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "AEAaeDNMkR9oxu3xvbdiPvJsgr1nQkGGXQHjy5yg99NW",
-    "amount": 3,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=AEAaeDNMkR9oxu3xvbdiPvJsgr1nQkGGXQHjy5yg99NW&amount=3&index=27&proof=2euDqj9RiH5LyjvvxVbPU6ZUuBkqkmwXXprvh6c4GeRH,6HDGU8G94uSGUYxjgfSVdUxD6u5Ryaakp4GpPG6U4CFW,8tmdqqp36V8mTzHXqTMsB9SKo2pAbcmFfYgcu54Puo8i,PWNJiKoj7PhddS5AAquxRWk9JUkaD95yFD3LqgjYhzX,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "Aw83RbfEPig9K3QnXFxVJjzMJUf7odCnyGNDwUfYBmwY",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=Aw83RbfEPig9K3QnXFxVJjzMJUf7odCnyGNDwUfYBmwY&amount=3&index=27&proof=BDPkJ4Soegi3tReqsmHKrHWpATXyWLDNuqN2YoWbN6M4,2DDto9meYvaNSKUgg1Qhpo3NGvLSFco7yDeqCcUY8pBo,65SbeLN7hUdtugSzSLNXnBb3nJ4NGcckWV9BdZ4wMxXF,7cphZkcUi2n3yxnQsj7fxV4Xn4CVBAxu8oxtbBJ4ksts,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "BLzeBKQZUF8PAEAfyM2FPgSbUxXkLUAzihSDUx56U5hx",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=BLzeBKQZUF8PAEAfyM2FPgSbUxXkLUAzihSDUx56U5hx&amount=1&index=28&proof=CPy2t7WWabFR7FuKmngSTxWJJ68SpuVMEycTwFA7zueE,FFHdLi4cEA1nZvVScSzK133Yk9NA3CX575yb5t4NNi1y,Erv32fEaztPaXb2FCJvTKhRn3jU3gVaSabbGJagHkcgc,PWNJiKoj7PhddS5AAquxRWk9JUkaD95yFD3LqgjYhzX,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "GoWxgXDPGKpCrw478tY7BFY9YMXwmEQQRA4SWZnCcJj5",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=GoWxgXDPGKpCrw478tY7BFY9YMXwmEQQRA4SWZnCcJj5&amount=3&index=28&proof=BHcYuRdojnwkX9qnW3CjbC51SDymqBFu1zR4Dfv2EiWZ,Gfyzg8qVESy4ayyk6C4q1iUThBY3czR9WXisVvG7r4bM,A5d1ezSjN67zPWkmejgVfWXQdgsSBVV1mgXW27wEqRDT,7cphZkcUi2n3yxnQsj7fxV4Xn4CVBAxu8oxtbBJ4ksts,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "BpyuxGoAMUgFpZT9oacbY3FTtgAM7odKKVFSWMfaBizd",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=BpyuxGoAMUgFpZT9oacbY3FTtgAM7odKKVFSWMfaBizd&amount=1&index=29&proof=Dw5KcZy2fgu9UomVbMZapoQ7djWWQg5cNa97x5MqQnpM,FFHdLi4cEA1nZvVScSzK133Yk9NA3CX575yb5t4NNi1y,Erv32fEaztPaXb2FCJvTKhRn3jU3gVaSabbGJagHkcgc,PWNJiKoj7PhddS5AAquxRWk9JUkaD95yFD3LqgjYhzX,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "GyJnicLmLVMkVBkesc9uYk7ZYeWehaWqWTQ2d28vhrbp",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=GyJnicLmLVMkVBkesc9uYk7ZYeWehaWqWTQ2d28vhrbp&amount=3&index=29&proof=8q24LVUokwkeGZ2bteVGw2GyvxHCXeZvcWTc91oGRkQP,Gfyzg8qVESy4ayyk6C4q1iUThBY3czR9WXisVvG7r4bM,A5d1ezSjN67zPWkmejgVfWXQdgsSBVV1mgXW27wEqRDT,7cphZkcUi2n3yxnQsj7fxV4Xn4CVBAxu8oxtbBJ4ksts,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "BTgvyWkuRABn2LY34YAt31JLnnBCRv8WyUAtcr7zLmD",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=BTgvyWkuRABn2LY34YAt31JLnnBCRv8WyUAtcr7zLmD&amount=1&index=30&proof=8WwkfS6axeRjcKqgmiXE6zUq9KmvPmQKgc7aNuKP2oja,5L5EH5n2rEMeTPTy5rE2McFCxPC1Ga7B2AEr1gADG2hG,Erv32fEaztPaXb2FCJvTKhRn3jU3gVaSabbGJagHkcgc,PWNJiKoj7PhddS5AAquxRWk9JUkaD95yFD3LqgjYhzX,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "BvBkv365jzuRxyesbPtPDXgyeRDaFc3BnXkA9qwNQLSu",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=BvBkv365jzuRxyesbPtPDXgyeRDaFc3BnXkA9qwNQLSu&amount=3&index=30&proof=EWLHLijrJhzsbhNjEULQMM8jrdVE7RZeb842yZjcWmBo,77DeZ6g3bnJLLSrqapfsMtzjkYpm95usP7bg34qyrUqt,A5d1ezSjN67zPWkmejgVfWXQdgsSBVV1mgXW27wEqRDT,7cphZkcUi2n3yxnQsj7fxV4Xn4CVBAxu8oxtbBJ4ksts,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "BueKuFx4xZhrqAgkAzocwHBPWk2VhLcLVU9DwXwQV6iq",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=BueKuFx4xZhrqAgkAzocwHBPWk2VhLcLVU9DwXwQV6iq&amount=1&index=31&proof=HbavogBDFPN9j9h5ZxCBkkcnhvx74wSdYVGQj27PnqqH,5L5EH5n2rEMeTPTy5rE2McFCxPC1Ga7B2AEr1gADG2hG,Erv32fEaztPaXb2FCJvTKhRn3jU3gVaSabbGJagHkcgc,PWNJiKoj7PhddS5AAquxRWk9JUkaD95yFD3LqgjYhzX,42X6prKfS8szBqjy8pPyvZJZ7uyZEm57Hc2MNM4ofiXL,9eB7n9FGLdRdq4SrSLKb4LZMabDAbXE4dmrMCb6P3WBw&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "6UwJqC55VWh9nSr9mPa1fGimfp7mmvVUCToe42RMhnYL",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=6UwJqC55VWh9nSr9mPa1fGimfp7mmvVUCToe42RMhnYL&amount=3&index=31&proof=5xc7Zp6wdM5377bUXqnVP95BhUmnGyZBHR45z4e4utyi,77DeZ6g3bnJLLSrqapfsMtzjkYpm95usP7bg34qyrUqt,A5d1ezSjN67zPWkmejgVfWXQdgsSBVV1mgXW27wEqRDT,7cphZkcUi2n3yxnQsj7fxV4Xn4CVBAxu8oxtbBJ4ksts,HDynRN8zECJAwPMvZp16uy3mhjs4cV68bVXJRHsq5KJ9,ENpCvRbSToVPLrRvrXQPGcU7XdeCCiWM88GD5an5XBHo,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "BwP7RxZ3ebYUCuhKytKbvSyauubWqpx2qdKV4K3AhcF2",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=BwP7RxZ3ebYUCuhKytKbvSyauubWqpx2qdKV4K3AhcF2&amount=1&index=32&proof=8S5CBFgqjJzN5WdjJh2eZS7ScZCUAi5jxMLtB7YJu3jD,8WHUZbqQffdyu3a26kVzrwqTzHdBt79qG67B4kozuWq7,5pzKqEn3G1MNLqQoWMoUNCZe7uEmgUEbzuEizrqmedEJ,Aus8cTaXXEjC4RQySDwXba6tG638DCU2X6bC4QFCsLxK,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "4MiRkJxh8jxjuG28pnSWT8PYjpofPbFFatrGszYmZCUi",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=4MiRkJxh8jxjuG28pnSWT8PYjpofPbFFatrGszYmZCUi&amount=3&index=32&proof=7xyY4ZnShuNZjdeu4PsVd5EgFL4F9CpAnxweJFKzcFno,4rbqFWpv1ccS8YstFjnnxq6Yg2uKvXatNn3HJA33TkT9,CxfMLnKpUM744exhgLCLH5x2s5cuCUSu2nBmUyhn75gM,FtnZ9HGiS6BkioEoKEmGUXo9CLiyL1U14DqvYroKNtqr,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "CanUtfJw9Wb5YF2zWfswHszura25KWcm4G2kFwvRFCvk",
-    "amount": 2,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=CanUtfJw9Wb5YF2zWfswHszura25KWcm4G2kFwvRFCvk&amount=2&index=33&proof=FQoePfdPMEYpE6j5f29dMrLxaxc77fUpuc9qoKWBU6yZ,8WHUZbqQffdyu3a26kVzrwqTzHdBt79qG67B4kozuWq7,5pzKqEn3G1MNLqQoWMoUNCZe7uEmgUEbzuEizrqmedEJ,Aus8cTaXXEjC4RQySDwXba6tG638DCU2X6bC4QFCsLxK,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "HGNvTomYasmbQgHdBWqL3zYraHAghQ8HH9k7QTvnUG7E",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=HGNvTomYasmbQgHdBWqL3zYraHAghQ8HH9k7QTvnUG7E&amount=3&index=33&proof=6v68suRdAcG2JKXKySB2LdcYA9Dq6Eg6BUHA9sEiSGgu,4rbqFWpv1ccS8YstFjnnxq6Yg2uKvXatNn3HJA33TkT9,CxfMLnKpUM744exhgLCLH5x2s5cuCUSu2nBmUyhn75gM,FtnZ9HGiS6BkioEoKEmGUXo9CLiyL1U14DqvYroKNtqr,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "CkMdk7JjNqJJTi9KEwPL2hNNB8i312uNxAkBDWuJXqZV",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=CkMdk7JjNqJJTi9KEwPL2hNNB8i312uNxAkBDWuJXqZV&amount=1&index=34&proof=HTLBqeWhTxQtTpSd17WTv9konGmHftVUY49KXLJbgre,9wyyDmvF4y2CjCy1BqzKv4JGZmMCgcYNMVwEPfwTPo9P,5pzKqEn3G1MNLqQoWMoUNCZe7uEmgUEbzuEizrqmedEJ,Aus8cTaXXEjC4RQySDwXba6tG638DCU2X6bC4QFCsLxK,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "8v6ABh8vLvBxY5BmrCndxgz5NiRHw8Gha1opwzj4oQPU",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=8v6ABh8vLvBxY5BmrCndxgz5NiRHw8Gha1opwzj4oQPU&amount=3&index=34&proof=BWmVCD6wEC6u4hhdh53LjV4KbXhdMQgjStYb3CrbRbnY,3JfLNV6wb8aJpgnjuzSXehLDSXQYdwdUCJFe7gri13kr,CxfMLnKpUM744exhgLCLH5x2s5cuCUSu2nBmUyhn75gM,FtnZ9HGiS6BkioEoKEmGUXo9CLiyL1U14DqvYroKNtqr,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "Cukx1jcudcYPP9Nfvj4GDWoppKKYYWjvcFXeTRupWXVX",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=Cukx1jcudcYPP9Nfvj4GDWoppKKYYWjvcFXeTRupWXVX&amount=1&index=35&proof=38btu81A7GibNRgP3L845ydf9qzJvFb9Q5vCSxy2e14w,9wyyDmvF4y2CjCy1BqzKv4JGZmMCgcYNMVwEPfwTPo9P,5pzKqEn3G1MNLqQoWMoUNCZe7uEmgUEbzuEizrqmedEJ,Aus8cTaXXEjC4RQySDwXba6tG638DCU2X6bC4QFCsLxK,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "3Ex2daqcphxomsFnnZfMRAjvA5Y6gKyMi2MNAduMaMgV",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=3Ex2daqcphxomsFnnZfMRAjvA5Y6gKyMi2MNAduMaMgV&amount=3&index=35&proof=f44ptaEUcg8ZtDKSTgoFjFsbMvbhmCfiVdC64SigsjA,3JfLNV6wb8aJpgnjuzSXehLDSXQYdwdUCJFe7gri13kr,CxfMLnKpUM744exhgLCLH5x2s5cuCUSu2nBmUyhn75gM,FtnZ9HGiS6BkioEoKEmGUXo9CLiyL1U14DqvYroKNtqr,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "D4mSTb6npKuiQJUoo1LBdow52FWiEaWkAapE4sDvJKwE",
-    "amount": 2,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=D4mSTb6npKuiQJUoo1LBdow52FWiEaWkAapE4sDvJKwE&amount=2&index=36&proof=ELo9oD4BLQA6gfRBFDyE2aB1s8QGXCmAKBE4c3GZSLeS,Fgaz7yKsQMVAy8Mry9uGf5R2quAwT1pUWNJ166cKZpfX,7XVJzyXhmCv7cx73q82c4bb3rKqnSfCSo8yFNnhtiqTj,Aus8cTaXXEjC4RQySDwXba6tG638DCU2X6bC4QFCsLxK,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "5t2yu8Dfo8AgQYA83wSETmk444LcfMgbGgcFeoRZw6Um",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=5t2yu8Dfo8AgQYA83wSETmk444LcfMgbGgcFeoRZw6Um&amount=3&index=36&proof=9f1LV6QEgT8vryF7i9YnC6QaCHjjb9PyUAVL85yWrZ5J,CKDRMCteutvo4bnyPgXpMuZY1ghNAqjG4VUy61UXT6oN,Gv3UXuijmp5KKkVNFDstgAVXqwf5kryENBZi7RnhnkgV,FtnZ9HGiS6BkioEoKEmGUXo9CLiyL1U14DqvYroKNtqr,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "DCFNdUBjNNg6QFypHjUuNzgRC5KuNJEkcQhQz2E5tio4",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=DCFNdUBjNNg6QFypHjUuNzgRC5KuNJEkcQhQz2E5tio4&amount=1&index=37&proof=7AWfy8fqXPCcMNzAGDsND44UX5vz2PxeKwn6pdPUdWrR,Fgaz7yKsQMVAy8Mry9uGf5R2quAwT1pUWNJ166cKZpfX,7XVJzyXhmCv7cx73q82c4bb3rKqnSfCSo8yFNnhtiqTj,Aus8cTaXXEjC4RQySDwXba6tG638DCU2X6bC4QFCsLxK,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "ASTXTeunhqKULYoLXf15ywWK8wxTzbxi2udQ94TE78xL",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=ASTXTeunhqKULYoLXf15ywWK8wxTzbxi2udQ94TE78xL&amount=3&index=37&proof=9nLVznDEVLgoP3JiG5JAfs7yGHwZH3BH5fd7F1wk1FWL,CKDRMCteutvo4bnyPgXpMuZY1ghNAqjG4VUy61UXT6oN,Gv3UXuijmp5KKkVNFDstgAVXqwf5kryENBZi7RnhnkgV,FtnZ9HGiS6BkioEoKEmGUXo9CLiyL1U14DqvYroKNtqr,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "DV6UGrh7AUDFsk5Xr6S4yAjv1Da96nQQzLhbXkwNMrst",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=DV6UGrh7AUDFsk5Xr6S4yAjv1Da96nQQzLhbXkwNMrst&amount=1&index=38&proof=6nFn4WwbLnAHUxyrKCShzZi6i1gniYZwNBjT6HEHvB72,D1zzMw7NXkHAGZs3dMPyabA1WpjXd5VzyqfP5466vFNG,7XVJzyXhmCv7cx73q82c4bb3rKqnSfCSo8yFNnhtiqTj,Aus8cTaXXEjC4RQySDwXba6tG638DCU2X6bC4QFCsLxK,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "2biS2Qdcf8xt3vaV6hbFyuujVZP38KdGwWXzte1QVax7",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=2biS2Qdcf8xt3vaV6hbFyuujVZP38KdGwWXzte1QVax7&amount=3&index=38&proof=5iwbjjohu64zgkfVjjP6opmTzHqinYkAjNFA6YU5Rmci,3BZBPt9sEVo8dBLckvZv7pVEk6DS49jWaFDnNuUzaVTr,Gv3UXuijmp5KKkVNFDstgAVXqwf5kryENBZi7RnhnkgV,FtnZ9HGiS6BkioEoKEmGUXo9CLiyL1U14DqvYroKNtqr,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "DxyrbXfqdrsB5bQqfJtN6uFUMWRk2t418VA5yNX6AFaE",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=DxyrbXfqdrsB5bQqfJtN6uFUMWRk2t418VA5yNX6AFaE&amount=1&index=39&proof=FZc4TTwEbktM5dUoYcS19mCqk8AwMxyb3zTmktnBnMQf,D1zzMw7NXkHAGZs3dMPyabA1WpjXd5VzyqfP5466vFNG,7XVJzyXhmCv7cx73q82c4bb3rKqnSfCSo8yFNnhtiqTj,Aus8cTaXXEjC4RQySDwXba6tG638DCU2X6bC4QFCsLxK,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "2bNyHjtfpP3j43H4URp25GxyCGjVjaRU8hBCLBkk9iRt",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=2bNyHjtfpP3j43H4URp25GxyCGjVjaRU8hBCLBkk9iRt&amount=3&index=39&proof=6nxB4egM9E7eBSNG5uHxmUqqZtrMj6imsZPuXKNANs8p,3BZBPt9sEVo8dBLckvZv7pVEk6DS49jWaFDnNuUzaVTr,Gv3UXuijmp5KKkVNFDstgAVXqwf5kryENBZi7RnhnkgV,FtnZ9HGiS6BkioEoKEmGUXo9CLiyL1U14DqvYroKNtqr,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "EfTBNXdLzbjDsTAdeyXx3CRQMH83kPVPsA2bzSVWprqS",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=EfTBNXdLzbjDsTAdeyXx3CRQMH83kPVPsA2bzSVWprqS&amount=1&index=40&proof=6oazZBrjeY1MPbohf2C1pqhgTPFkyNMHKSWh6UFB4vpK,4y1woA8FGVU8msW6c4tsoQ4iET9dBYHQXondu9iPc97G,AwxPNm4cW6bjuXYuwYfnWbWxUBz7ykSrQTFP2NyDXw6C,FjjCu3Xoksc5btgKTHojRizbHxcoLq4S8XBr6EbmoT4x,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "2KLKn4PFamDAp1BCGNW5h5g2x8fsHLa4QLDmQiNEPA74",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=2KLKn4PFamDAp1BCGNW5h5g2x8fsHLa4QLDmQiNEPA74&amount=3&index=40&proof=FoeA1fw2S1pEaAXmYEkU6urCEoJNAys3keAKX5W1Wosd,XFiaLyWkzzumF4E1HxxQGK8a1RZs9iBCtYQyDRaMShV,57yWasmw95ZTQHSESXxncfQUHsJvVjKrNTRyjRAfiSfc,3jSdxsxUQZdTFaTN4hPWdmn6wgU6NaGy9DVa717S8aiJ,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "EkaNLzCbJpBWfkgu3q8uWuMJhfnnjXKzbed69LapSQeG",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=EkaNLzCbJpBWfkgu3q8uWuMJhfnnjXKzbed69LapSQeG&amount=1&index=41&proof=F47YJrtRyguNVFQGq7ahBoHdBPjgRCToyt5VLR4Cydig,4y1woA8FGVU8msW6c4tsoQ4iET9dBYHQXondu9iPc97G,AwxPNm4cW6bjuXYuwYfnWbWxUBz7ykSrQTFP2NyDXw6C,FjjCu3Xoksc5btgKTHojRizbHxcoLq4S8XBr6EbmoT4x,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "2TWma7cRRkWSqcNd6Eb9M8s37yopY6m2JNWE55WPix9J",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=2TWma7cRRkWSqcNd6Eb9M8s37yopY6m2JNWE55WPix9J&amount=3&index=41&proof=5skWC7hNVYjPcZ7bNcjaZEk6JViQXVKxEKgvbXj6rJsb,XFiaLyWkzzumF4E1HxxQGK8a1RZs9iBCtYQyDRaMShV,57yWasmw95ZTQHSESXxncfQUHsJvVjKrNTRyjRAfiSfc,3jSdxsxUQZdTFaTN4hPWdmn6wgU6NaGy9DVa717S8aiJ,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "FDXU4s1JbsEzPnZD9X56aZ1n8LpWuPkU5duBdikPRi67",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=FDXU4s1JbsEzPnZD9X56aZ1n8LpWuPkU5duBdikPRi67&amount=1&index=42&proof=5LAZdAyHVVs1uyKHbSa8DCCok43YFNkk5enKk9Tpn4Yy,3SoVAxuzewapoGSrhuy9oqsRNNHi2rrDqErxDRKZDSnF,AwxPNm4cW6bjuXYuwYfnWbWxUBz7ykSrQTFP2NyDXw6C,FjjCu3Xoksc5btgKTHojRizbHxcoLq4S8XBr6EbmoT4x,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "31DLuynLxok6YRd2otWQUExxHUdXe4gteEMc5nfVAp2v",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=31DLuynLxok6YRd2otWQUExxHUdXe4gteEMc5nfVAp2v&amount=3&index=42&proof=GCss28xrSUaGmmHSty4fQvQUBLaxzPJwX38aFaTxKZnm,EAzvjdyqrLJCPZtrG293bUoGUsPtrWRUbA9t5UTvPVNk,57yWasmw95ZTQHSESXxncfQUHsJvVjKrNTRyjRAfiSfc,3jSdxsxUQZdTFaTN4hPWdmn6wgU6NaGy9DVa717S8aiJ,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "FGgRP16x7pEC7zUJhoUfHeSusd7unTBLgjWaq2m6pkKG",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=FGgRP16x7pEC7zUJhoUfHeSusd7unTBLgjWaq2m6pkKG&amount=1&index=43&proof=AkwoErsggsqsN2yJNmBFupjhAxWhKg8qpoH5Ar5DovVs,3SoVAxuzewapoGSrhuy9oqsRNNHi2rrDqErxDRKZDSnF,AwxPNm4cW6bjuXYuwYfnWbWxUBz7ykSrQTFP2NyDXw6C,FjjCu3Xoksc5btgKTHojRizbHxcoLq4S8XBr6EbmoT4x,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "3ePrykUXZargZGyePQXazFCnkzC3ps3vWVjjdfguJSaR",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=3ePrykUXZargZGyePQXazFCnkzC3ps3vWVjjdfguJSaR&amount=3&index=43&proof=2jdeCdEFWdy9J4s4dd5p1GKM1tem5BGDKXgVCC7DrsjL,EAzvjdyqrLJCPZtrG293bUoGUsPtrWRUbA9t5UTvPVNk,57yWasmw95ZTQHSESXxncfQUHsJvVjKrNTRyjRAfiSfc,3jSdxsxUQZdTFaTN4hPWdmn6wgU6NaGy9DVa717S8aiJ,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "G9sEsqifGU59Jx1Dt8e4nAwM4c7szq4y9WscW79fWe9P",
-    "amount": 3,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=G9sEsqifGU59Jx1Dt8e4nAwM4c7szq4y9WscW79fWe9P&amount=3&index=44&proof=2V3r57BoqCspaWGwn9BchKPpgR7wxAvGRqgCoYLBxpFr,3TUa7GrjVyv1ZddHG9CCfhAtCvhjHEVSKkos4bWMg7wA,6SfA8adhJK5eVKFPATEgFxifMENHmM5LfhtwpBUUdy1j,FjjCu3Xoksc5btgKTHojRizbHxcoLq4S8XBr6EbmoT4x,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "3xkVJxEZzbJDomzx3Q2Aukg8gTrFpgza2tFXfNoNbiaQ",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=3xkVJxEZzbJDomzx3Q2Aukg8gTrFpgza2tFXfNoNbiaQ&amount=3&index=44&proof=AGRkhNk1pScFyfNnmWYA3mxS6GmUQGs5vqVN9SUSTFRo,DwFNgZhSSDche8bQfV4CS4go8e9TiV97Hohv99M4n2ZD,4M7S61xbn4j7wydwKYzfM2RHnGmSRbe4bSjDtLHBsucd,3jSdxsxUQZdTFaTN4hPWdmn6wgU6NaGy9DVa717S8aiJ,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "GLpWA4X3mBHvSshZMLUKGdQMtEc3UeC3HJAdQuvJbxQ4",
-    "amount": 6,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=GLpWA4X3mBHvSshZMLUKGdQMtEc3UeC3HJAdQuvJbxQ4&amount=6&index=45&proof=HJZUtQGDTubSro68km1TLrQT1wB5wfgqD7B5FjMHP2me,3TUa7GrjVyv1ZddHG9CCfhAtCvhjHEVSKkos4bWMg7wA,6SfA8adhJK5eVKFPATEgFxifMENHmM5LfhtwpBUUdy1j,FjjCu3Xoksc5btgKTHojRizbHxcoLq4S8XBr6EbmoT4x,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "4D2dYpJYwyDdT8n9DtFiyLW5C1B6RQJ5qjjZj2bLohTp",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=4D2dYpJYwyDdT8n9DtFiyLW5C1B6RQJ5qjjZj2bLohTp&amount=3&index=45&proof=8yzEUTWQqGrf4oUL4YjhoQn6AAJ6pnDA79MDELkyCZga,DwFNgZhSSDche8bQfV4CS4go8e9TiV97Hohv99M4n2ZD,4M7S61xbn4j7wydwKYzfM2RHnGmSRbe4bSjDtLHBsucd,3jSdxsxUQZdTFaTN4hPWdmn6wgU6NaGy9DVa717S8aiJ,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "GREMSsfzoKTuBz8kYy96DLX9CPZes15wKTFnDqXRciET",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=GREMSsfzoKTuBz8kYy96DLX9CPZes15wKTFnDqXRciET&amount=1&index=46&proof=6iUG8Qe1emwbNoMR1KVWkykDSYuzJFkenssib7UdVeTQ,79co7ugkxXZMqV4hDyKBoma9hKPiEqQGGak5wGCKkwTZ,6SfA8adhJK5eVKFPATEgFxifMENHmM5LfhtwpBUUdy1j,FjjCu3Xoksc5btgKTHojRizbHxcoLq4S8XBr6EbmoT4x,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "4pDhqtKtS8qw3cdZzx33oPEFKfSprGo3fs8vLX8JznBY",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=4pDhqtKtS8qw3cdZzx33oPEFKfSprGo3fs8vLX8JznBY&amount=3&index=46&proof=FQ5Xt6FKe5EkwPXYz7bsmJXQDCCq3uKhMpbR6X8HffMB,BeFxH15z4iPoGaZVrMeqTaNQBr9Gf5Mk9H1PKyZeduxi,4M7S61xbn4j7wydwKYzfM2RHnGmSRbe4bSjDtLHBsucd,3jSdxsxUQZdTFaTN4hPWdmn6wgU6NaGy9DVa717S8aiJ,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "GvCr2tfTPEdk1cm8TDaWHEscNaqkzKiQsEpDxpWsUZ8q",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=GvCr2tfTPEdk1cm8TDaWHEscNaqkzKiQsEpDxpWsUZ8q&amount=1&index=47&proof=DxqJhsod2Ym4YDYQCazZT17sDheVeihKfr1eXEJCBEcC,79co7ugkxXZMqV4hDyKBoma9hKPiEqQGGak5wGCKkwTZ,6SfA8adhJK5eVKFPATEgFxifMENHmM5LfhtwpBUUdy1j,FjjCu3Xoksc5btgKTHojRizbHxcoLq4S8XBr6EbmoT4x,FuPEYR3j2MvtWsBJm9DfrPUyq3hNyzfZixNfAadrKhqP,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "5141Pon7gQJE2KUcLBAj6RpcM2d2sexxTM4uFuhGAbDn",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=5141Pon7gQJE2KUcLBAj6RpcM2d2sexxTM4uFuhGAbDn&amount=3&index=47&proof=6b8rJcWERgxNwmGA3p4JNzAKxZRPvz7A2Yj6QHX97vQm,BeFxH15z4iPoGaZVrMeqTaNQBr9Gf5Mk9H1PKyZeduxi,4M7S61xbn4j7wydwKYzfM2RHnGmSRbe4bSjDtLHBsucd,3jSdxsxUQZdTFaTN4hPWdmn6wgU6NaGy9DVa717S8aiJ,HwJdHA6vUBAJvQZokqkyEfX49WA2FbFxuTwaBtMLVMY5,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "HA6Wtr6Jv6kgo5VLzGVrq11Yby3k6eSAfBv5yLcwZKH6",
-    "amount": 2,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=HA6Wtr6Jv6kgo5VLzGVrq11Yby3k6eSAfBv5yLcwZKH6&amount=2&index=48&proof=J8xqD6huB4pPFENrawoBomCaA8JFKbXsr7obHwjYMT2u,7Uv8oQczNnuQmYY37AhcmGaqsUiTF2ztN1M8MFt5hCWK,64c4aq3JybdT4hdD3caCwgiTa8yUWExaVMMiTJmQ16Ls,3d4zQY4iQD87umfn7A6SgR3UV1JsuY95BTJW4tAvp3k2,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "52sDun8hQGAF3vDBcG3XLVMJkBL3vpXUpnhRsEsmyWUJ",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=52sDun8hQGAF3vDBcG3XLVMJkBL3vpXUpnhRsEsmyWUJ&amount=3&index=48&proof=9DtuJxEwbFKJHW6E638qchKUcXu1shvrYncN4UVprCh6,BHw2UUER5z7yeVE4YCiRuMELs68TpLkYfk1LHyQsm6mB,F3P5Dg9Vby6P9xDPGXMyf7trywtCMFojNYccKMpM5yva,F7u8rVVTLhv5PbZE9jvu5ZYViJZ1nxLLmwWNShCubBck,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "HCQvci6MN1xrBzNbZNjFG8Jdb2cSWGzA5DiqYLV2S5zg",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=HCQvci6MN1xrBzNbZNjFG8Jdb2cSWGzA5DiqYLV2S5zg&amount=1&index=49&proof=G4D8bRN4bEhKe4y3jh2mXuuynUCQYUqTjojj4QCa1ZWS,7Uv8oQczNnuQmYY37AhcmGaqsUiTF2ztN1M8MFt5hCWK,64c4aq3JybdT4hdD3caCwgiTa8yUWExaVMMiTJmQ16Ls,3d4zQY4iQD87umfn7A6SgR3UV1JsuY95BTJW4tAvp3k2,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "5ktP7bngyc6sX9KGd8ETonPH1fz9rpeXKaJZ5rYHFbj9",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=5ktP7bngyc6sX9KGd8ETonPH1fz9rpeXKaJZ5rYHFbj9&amount=3&index=49&proof=BrAoKvTudkmjwgrDQzBTzQDdLz7Z5J8YDp8X9MEoktoM,BHw2UUER5z7yeVE4YCiRuMELs68TpLkYfk1LHyQsm6mB,F3P5Dg9Vby6P9xDPGXMyf7trywtCMFojNYccKMpM5yva,F7u8rVVTLhv5PbZE9jvu5ZYViJZ1nxLLmwWNShCubBck,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "HrDtoCgC8DEt6NHt6v9imQh3ZN7CQiyypjspF4SAz3x5",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=HrDtoCgC8DEt6NHt6v9imQh3ZN7CQiyypjspF4SAz3x5&amount=1&index=50&proof=Dukzb3QFCMVEwuhmXoUMrgEVgJVTFGYv57joQwmjxnfw,4ZDScWW8uM7CzfWqpUJT4uV6bwCGCbRXux5KiNzHd4bA,64c4aq3JybdT4hdD3caCwgiTa8yUWExaVMMiTJmQ16Ls,3d4zQY4iQD87umfn7A6SgR3UV1JsuY95BTJW4tAvp3k2,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "5p5TzPX3SDeTszPy1rsk5QG28BP7xEB989swbJXP5fwN",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=5p5TzPX3SDeTszPy1rsk5QG28BP7xEB989swbJXP5fwN&amount=3&index=50&proof=2rAeb9jTp2e8m2kSdQAaSjYTfwHy22pQSPwYaxwVDvkN,JDA48wCHwHpECidxrrfFADh3gXywVoMgdsNufdjn6eK3,F3P5Dg9Vby6P9xDPGXMyf7trywtCMFojNYccKMpM5yva,F7u8rVVTLhv5PbZE9jvu5ZYViJZ1nxLLmwWNShCubBck,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "HYSJKjgEtmrjpfkxA8uVsS1iGh9mPGncpQJA2wenUaY6",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=HYSJKjgEtmrjpfkxA8uVsS1iGh9mPGncpQJA2wenUaY6&amount=1&index=51&proof=7jU9RoUWFPV956Y7PmHvrZSa7TgpRg1H1e4WcqjdCb7L,4ZDScWW8uM7CzfWqpUJT4uV6bwCGCbRXux5KiNzHd4bA,64c4aq3JybdT4hdD3caCwgiTa8yUWExaVMMiTJmQ16Ls,3d4zQY4iQD87umfn7A6SgR3UV1JsuY95BTJW4tAvp3k2,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "66Xz459nAxyrjRa9xQXnhr5kNsDxX8MPg3syeXFk3K5j",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=66Xz459nAxyrjRa9xQXnhr5kNsDxX8MPg3syeXFk3K5j&amount=3&index=51&proof=78En732M2GtsvMqVTYuwp4JU4ZU6h68SNpX2Uaixm4ry,JDA48wCHwHpECidxrrfFADh3gXywVoMgdsNufdjn6eK3,F3P5Dg9Vby6P9xDPGXMyf7trywtCMFojNYccKMpM5yva,F7u8rVVTLhv5PbZE9jvu5ZYViJZ1nxLLmwWNShCubBck,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   },
   {
-    "handle": "SfqXD9cDwJa2ijWxJwPNw355EZo6VU93AvYhduiStqw",
-    "amount": 1,
-    "url": "https://gumdrop-bankr2fpv.vercel.app/gumdrop/claim?distributor=5ezH9kKp63PAPN7emj1tdbuAS7kK8gAtYQoqWo9aS5cY&handle=SfqXD9cDwJa2ijWxJwPNw355EZo6VU93AvYhduiStqw&amount=1&index=52&proof=85EVGtZ7qWmVNdrXhtMKRfgoP4MWTjf6DCSYq5SEUzAP,3d4zQY4iQD87umfn7A6SgR3UV1JsuY95BTJW4tAvp3k2,65FKtv8bTZzrDu7Wwh2zEFd3fVFryeFDKbR2cnHdvV3K&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+      "handle": "6i2b8ps66e89nvkgrM86euY75aVX3Cw7Dn8vTKkHv5Wn",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=6i2b8ps66e89nvkgrM86euY75aVX3Cw7Dn8vTKkHv5Wn&amount=3&index=52&proof=5mQ6mEzH1wS9ESuCUh83NPv3pbTHtqc92ZxhgSEBR63H,9vDmWr7vVMTfBZ5kdQfmWtVWHeMcMWAU3fYr8VL3juXa,AVD7oUmEZNXpyMb7tN9VL6sFPyD7qVYWDWdqGKbRTfS5,F7u8rVVTLhv5PbZE9jvu5ZYViJZ1nxLLmwWNShCubBck,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "6jhaJLArwx3jtfYRkCNaPfYieHyWBanNZGNsNGc2W4tN",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=6jhaJLArwx3jtfYRkCNaPfYieHyWBanNZGNsNGc2W4tN&amount=3&index=53&proof=3oHkJcR1LhCPGqpxrR4gYpwyKXuiXpjKNpFu1P4WRjiL,9vDmWr7vVMTfBZ5kdQfmWtVWHeMcMWAU3fYr8VL3juXa,AVD7oUmEZNXpyMb7tN9VL6sFPyD7qVYWDWdqGKbRTfS5,F7u8rVVTLhv5PbZE9jvu5ZYViJZ1nxLLmwWNShCubBck,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "6szyLJU4J3hxUdDo4KiAixSBELVmgfnUNDMsBRY21mQb",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=6szyLJU4J3hxUdDo4KiAixSBELVmgfnUNDMsBRY21mQb&amount=3&index=54&proof=J5vnrCd9HijsiFQkjE2WTD1uKcDMeQr4igegchtShovH,Hvk3w5mGsQYVRiRyZAfeWyiSmh5gk8C8UYhxQmLuxRv5,AVD7oUmEZNXpyMb7tN9VL6sFPyD7qVYWDWdqGKbRTfS5,F7u8rVVTLhv5PbZE9jvu5ZYViJZ1nxLLmwWNShCubBck,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "79bo7KJc79ufoWijW57Cayuma2tdJXvm9BDPkWt91S3N",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=79bo7KJc79ufoWijW57Cayuma2tdJXvm9BDPkWt91S3N&amount=3&index=55&proof=44LkpCzCXc5LWtXiHHHx3q89R53Y84P418A8xvVScXh6,Hvk3w5mGsQYVRiRyZAfeWyiSmh5gk8C8UYhxQmLuxRv5,AVD7oUmEZNXpyMb7tN9VL6sFPyD7qVYWDWdqGKbRTfS5,F7u8rVVTLhv5PbZE9jvu5ZYViJZ1nxLLmwWNShCubBck,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "7hQUPkeg3AVqya2UX4s4MqZq6upYde1rKZ1No3WYuT4u",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=7hQUPkeg3AVqya2UX4s4MqZq6upYde1rKZ1No3WYuT4u&amount=3&index=56&proof=DaYuqibbsFKeve1Co4PQjthzpddVS4a7NjgVspfxuApw,4Ab85U8aXt6PZJRWbYEo9UbsXTASoWA1XJYXgr7kxmmM,7wZds6iWrT4DaAUrpACZ7ThP5C1LWLBvBKY4gFwcs2sZ,GAw4HeHqwdG95YFSuJAtb8twNgqM6J59XSXkRcMHpjXr,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "8gMjYPuRPuQmQqcNqgdQWfGBUwAkUxVKKm6AuiaoFXvE",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=8gMjYPuRPuQmQqcNqgdQWfGBUwAkUxVKKm6AuiaoFXvE&amount=3&index=57&proof=Fn1Bm9LA3zir6AiUsaWrkjHX9My1HfE9Cx2hL9E8gMQR,4Ab85U8aXt6PZJRWbYEo9UbsXTASoWA1XJYXgr7kxmmM,7wZds6iWrT4DaAUrpACZ7ThP5C1LWLBvBKY4gFwcs2sZ,GAw4HeHqwdG95YFSuJAtb8twNgqM6J59XSXkRcMHpjXr,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "8L93HZ8KjHKgXqFxc7VNWPtzs2FvLvy4pvAC65bxFGj6",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=8L93HZ8KjHKgXqFxc7VNWPtzs2FvLvy4pvAC65bxFGj6&amount=3&index=58&proof=5fWuWU2rYqiHN7kgxgCrfCqmFtp4rhH1UiZV5d4v5kJA,HjuCRk9FS4nbvBuVAEg5ewQwWZXVGq7Ym7oTGQA2z8Dq,7wZds6iWrT4DaAUrpACZ7ThP5C1LWLBvBKY4gFwcs2sZ,GAw4HeHqwdG95YFSuJAtb8twNgqM6J59XSXkRcMHpjXr,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "8PLSQEDsJSK6gbBGAn4p7AqqSyRZzkg1mu2LEArpiuaa",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=8PLSQEDsJSK6gbBGAn4p7AqqSyRZzkg1mu2LEArpiuaa&amount=3&index=59&proof=DrBQvkQrS31UyvzmvRVue9sZVCbm2UTPrh9hVPJxZx1o,HjuCRk9FS4nbvBuVAEg5ewQwWZXVGq7Ym7oTGQA2z8Dq,7wZds6iWrT4DaAUrpACZ7ThP5C1LWLBvBKY4gFwcs2sZ,GAw4HeHqwdG95YFSuJAtb8twNgqM6J59XSXkRcMHpjXr,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "8qfjjAdeyF8nDZ4LjAzs5yMXr6AcTybDnbnFHcJ8G6DV",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=8qfjjAdeyF8nDZ4LjAzs5yMXr6AcTybDnbnFHcJ8G6DV&amount=3&index=60&proof=A3xLuYdDTq5DQMoRPCiumTfssq24SnbZK1S5VdaeEgcW,AkFm91U61L5BCg724UiCyZLgFESTxE8WmQq9wLmsapKG,A6A39n1aAPuu8mtSjigADo1CRV3oZWmM6qsYzxUUL74g,GAw4HeHqwdG95YFSuJAtb8twNgqM6J59XSXkRcMHpjXr,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "8qVUxVnNhBRECttyD3JPP2xGpMYmfmEmCcPNj5WMMLAR",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=8qVUxVnNhBRECttyD3JPP2xGpMYmfmEmCcPNj5WMMLAR&amount=3&index=61&proof=6Xb31xZpG8CTrui1pzcztJ7sVebRkXW4L2zxqeTH1skA,AkFm91U61L5BCg724UiCyZLgFESTxE8WmQq9wLmsapKG,A6A39n1aAPuu8mtSjigADo1CRV3oZWmM6qsYzxUUL74g,GAw4HeHqwdG95YFSuJAtb8twNgqM6J59XSXkRcMHpjXr,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "97HHHCPwE1WLpThWmqePdQjwy2uyuDZVCixKGNTSadwf",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=97HHHCPwE1WLpThWmqePdQjwy2uyuDZVCixKGNTSadwf&amount=3&index=62&proof=DkuGFnjX2sTfm8ZnctmY1DXNcmFh8PZYALuCgJR45n9S,5XXkM1MUeYDkr3NSEirVkonoJhgPUmdGakYeTXie4hCK,A6A39n1aAPuu8mtSjigADo1CRV3oZWmM6qsYzxUUL74g,GAw4HeHqwdG95YFSuJAtb8twNgqM6J59XSXkRcMHpjXr,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "9gAvJ3tKnDB9TxAs3aU8d4J5zjYDxN5bkE8F7krbqv4w",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=9gAvJ3tKnDB9TxAs3aU8d4J5zjYDxN5bkE8F7krbqv4w&amount=3&index=63&proof=EQnPtUsXnENynq6gHfYEuSifTVTa4GYojP5SVBSjg2YX,5XXkM1MUeYDkr3NSEirVkonoJhgPUmdGakYeTXie4hCK,A6A39n1aAPuu8mtSjigADo1CRV3oZWmM6qsYzxUUL74g,GAw4HeHqwdG95YFSuJAtb8twNgqM6J59XSXkRcMHpjXr,AKyu6cgSEGTEHR2QsFmvEPhAUyM7mjqeG2KSnetPnAr,Foiz69bbJDVSwZjvzv4FUzG4DStQKui7CPcV6GtpJVgV,Ge75g53tcssyxT7LLzg3ucLTce5rETzpdj3AiNBS8v5Q&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "9ZmbXcQHzj1baXw3zXUS4GKWCWCUhNfccCuDdVNHfDWy",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=9ZmbXcQHzj1baXw3zXUS4GKWCWCUhNfccCuDdVNHfDWy&amount=3&index=64&proof=GbTThGE34S826LCi6R4u97aYGrG9pe4cD6PrwP5uiHZM,KfHx1gaynCVnmHwp6NRyaTABj1zSPG6trr8ECPrLSbV,FmiAgqm3oTBshvFrTbY8aFLYzjYmtUD5g2e7PgERT5ny,6BgvPzPJEwDfWcnoJz8pKbccxMW1hew1W2SudHoE3EsM,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "AEAaeDNMkR9oxu3xvbdiPvJsgr1nQkGGXQHjy5yg99NW",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=AEAaeDNMkR9oxu3xvbdiPvJsgr1nQkGGXQHjy5yg99NW&amount=3&index=65&proof=92rjvxZdVARXcDTxo8BTyFK3rDetwt6rWYDm7PYfuD3E,KfHx1gaynCVnmHwp6NRyaTABj1zSPG6trr8ECPrLSbV,FmiAgqm3oTBshvFrTbY8aFLYzjYmtUD5g2e7PgERT5ny,6BgvPzPJEwDfWcnoJz8pKbccxMW1hew1W2SudHoE3EsM,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "BLzeBKQZUF8PAEAfyM2FPgSbUxXkLUAzihSDUx56U5hx",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=BLzeBKQZUF8PAEAfyM2FPgSbUxXkLUAzihSDUx56U5hx&amount=3&index=66&proof=6R2UZoNRPuhCBGTNK5wtTcmDaCF2GhVcv2sphxbgraR6,2Be1YTHWhDj4EZAgcuA6ckTk9Jqrrsz3Gpt6tn1Q9h3r,FmiAgqm3oTBshvFrTbY8aFLYzjYmtUD5g2e7PgERT5ny,6BgvPzPJEwDfWcnoJz8pKbccxMW1hew1W2SudHoE3EsM,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "BpyuxGoAMUgFpZT9oacbY3FTtgAM7odKKVFSWMfaBizd",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=BpyuxGoAMUgFpZT9oacbY3FTtgAM7odKKVFSWMfaBizd&amount=3&index=67&proof=Etduu1UTUNo9bt2gc848V7iv5PRHWHuqJgd2mzrwyw9L,2Be1YTHWhDj4EZAgcuA6ckTk9Jqrrsz3Gpt6tn1Q9h3r,FmiAgqm3oTBshvFrTbY8aFLYzjYmtUD5g2e7PgERT5ny,6BgvPzPJEwDfWcnoJz8pKbccxMW1hew1W2SudHoE3EsM,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "BTgvyWkuRABn2LY34YAt31JLnnBCRv8WyUAtcr7zLmD",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=BTgvyWkuRABn2LY34YAt31JLnnBCRv8WyUAtcr7zLmD&amount=3&index=68&proof=Qn42o7k7ahFxNX79PtoU5GXXR6d7M7QQJMXtSksdTfD,AUzGA6L7WN2echt3jSm4fJzLELb1Esg1p7JpmZai7GAv,HMjHn5HmBRXExPXvksxanWavjNtEse8DadZvaygv5VDo,6BgvPzPJEwDfWcnoJz8pKbccxMW1hew1W2SudHoE3EsM,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "BueKuFx4xZhrqAgkAzocwHBPWk2VhLcLVU9DwXwQV6iq",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=BueKuFx4xZhrqAgkAzocwHBPWk2VhLcLVU9DwXwQV6iq&amount=3&index=69&proof=5YRGcqa5hbxzMW1TnnbRTxWJfXif2w7s1GaPmJVSPqFg,AUzGA6L7WN2echt3jSm4fJzLELb1Esg1p7JpmZai7GAv,HMjHn5HmBRXExPXvksxanWavjNtEse8DadZvaygv5VDo,6BgvPzPJEwDfWcnoJz8pKbccxMW1hew1W2SudHoE3EsM,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "CanUtfJw9Wb5YF2zWfswHszura25KWcm4G2kFwvRFCvk",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=CanUtfJw9Wb5YF2zWfswHszura25KWcm4G2kFwvRFCvk&amount=3&index=70&proof=4upyVuhdpB1nT9BUjj2akjPQs6S3iQCM1AKKS8r3Svh8,CNoST1WqeGRQ8xnWckWyiwRUnze7UeYy9KWJGsyHVAPQ,HMjHn5HmBRXExPXvksxanWavjNtEse8DadZvaygv5VDo,6BgvPzPJEwDfWcnoJz8pKbccxMW1hew1W2SudHoE3EsM,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "CkMdk7JjNqJJTi9KEwPL2hNNB8i312uNxAkBDWuJXqZV",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=CkMdk7JjNqJJTi9KEwPL2hNNB8i312uNxAkBDWuJXqZV&amount=3&index=71&proof=D5ftRCBiNYWGhJsncDgNH6t6Fp5Be5N2TwAMuAXoG2pj,CNoST1WqeGRQ8xnWckWyiwRUnze7UeYy9KWJGsyHVAPQ,HMjHn5HmBRXExPXvksxanWavjNtEse8DadZvaygv5VDo,6BgvPzPJEwDfWcnoJz8pKbccxMW1hew1W2SudHoE3EsM,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "Cukx1jcudcYPP9Nfvj4GDWoppKKYYWjvcFXeTRupWXVX",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=Cukx1jcudcYPP9Nfvj4GDWoppKKYYWjvcFXeTRupWXVX&amount=3&index=72&proof=BUne6DUZgyDG1h9mVf5sfVXXecvmEbpLcH8fFHxLTXQw,5PPYrW6wCKwNbk6nHvGAvgsTQ1nS7QQ28FXDkcLE1MZi,6sy8HQ8rPLK6gbuD2ZwP4dJfx99fre4nW3AJRfQLpdfp,DhJHHi1GFYcbQYH1vsmsXH3vvo7xqywEuewScYD31TxZ,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "D4mSTb6npKuiQJUoo1LBdow52FWiEaWkAapE4sDvJKwE",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=D4mSTb6npKuiQJUoo1LBdow52FWiEaWkAapE4sDvJKwE&amount=3&index=73&proof=5Fix1GGtxSGWPWcRJsLyjEDLjVRhMD9QAdZAob1g253q,5PPYrW6wCKwNbk6nHvGAvgsTQ1nS7QQ28FXDkcLE1MZi,6sy8HQ8rPLK6gbuD2ZwP4dJfx99fre4nW3AJRfQLpdfp,DhJHHi1GFYcbQYH1vsmsXH3vvo7xqywEuewScYD31TxZ,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "DCFNdUBjNNg6QFypHjUuNzgRC5KuNJEkcQhQz2E5tio4",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=DCFNdUBjNNg6QFypHjUuNzgRC5KuNJEkcQhQz2E5tio4&amount=3&index=74&proof=4RCc9j7xgwrHnVYTsrGbGvQUDpjBoC6AsQDfjU6DQahZ,Anzqf6t6FTBa2NgUhR7rURV9nyf4HbzciAUbBuT5dHJD,6sy8HQ8rPLK6gbuD2ZwP4dJfx99fre4nW3AJRfQLpdfp,DhJHHi1GFYcbQYH1vsmsXH3vvo7xqywEuewScYD31TxZ,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "DV6UGrh7AUDFsk5Xr6S4yAjv1Da96nQQzLhbXkwNMrst",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=DV6UGrh7AUDFsk5Xr6S4yAjv1Da96nQQzLhbXkwNMrst&amount=3&index=75&proof=799uwNtvyU1dT9Vn4jDqSAa1ousyqnvkehMfcg2L3jQR,Anzqf6t6FTBa2NgUhR7rURV9nyf4HbzciAUbBuT5dHJD,6sy8HQ8rPLK6gbuD2ZwP4dJfx99fre4nW3AJRfQLpdfp,DhJHHi1GFYcbQYH1vsmsXH3vvo7xqywEuewScYD31TxZ,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "EfTBNXdLzbjDsTAdeyXx3CRQMH83kPVPsA2bzSVWprqS",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=EfTBNXdLzbjDsTAdeyXx3CRQMH83kPVPsA2bzSVWprqS&amount=3&index=76&proof=BqTqhoYjnNdQ7ozY21biaWoyu8YvrTD865himBraLd1,5bYrMc3MPZSKrk61RCtUE6jG8yzRqSVghwnzfagJq41z,GdozUExuLsLnw4YnRBWYAizgwtjb8FfDiRPg3CCieGGq,DhJHHi1GFYcbQYH1vsmsXH3vvo7xqywEuewScYD31TxZ,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "EkaNLzCbJpBWfkgu3q8uWuMJhfnnjXKzbed69LapSQeG",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=EkaNLzCbJpBWfkgu3q8uWuMJhfnnjXKzbed69LapSQeG&amount=3&index=77&proof=ELfeMn3FsZtAKZoxcYp3hwrkjmLNSWmK1YFhudxrryXH,5bYrMc3MPZSKrk61RCtUE6jG8yzRqSVghwnzfagJq41z,GdozUExuLsLnw4YnRBWYAizgwtjb8FfDiRPg3CCieGGq,DhJHHi1GFYcbQYH1vsmsXH3vvo7xqywEuewScYD31TxZ,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "FDXU4s1JbsEzPnZD9X56aZ1n8LpWuPkU5duBdikPRi67",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=FDXU4s1JbsEzPnZD9X56aZ1n8LpWuPkU5duBdikPRi67&amount=3&index=78&proof=4zkf8XBH9nDTFPCA4FQXfxBDLhmQgfWK13Vp7AA77p9J,EB2vHbs6ZuvhRmNCF1y8QLJgnD9dNCXTgUWyCZLhBqE4,GdozUExuLsLnw4YnRBWYAizgwtjb8FfDiRPg3CCieGGq,DhJHHi1GFYcbQYH1vsmsXH3vvo7xqywEuewScYD31TxZ,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "FGgRP16x7pEC7zUJhoUfHeSusd7unTBLgjWaq2m6pkKG",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=FGgRP16x7pEC7zUJhoUfHeSusd7unTBLgjWaq2m6pkKG&amount=3&index=79&proof=Hqohc5nYgLrzfyaKbwJ4Y3PGfypZVaSScL2aMLHi9VeH,EB2vHbs6ZuvhRmNCF1y8QLJgnD9dNCXTgUWyCZLhBqE4,GdozUExuLsLnw4YnRBWYAizgwtjb8FfDiRPg3CCieGGq,DhJHHi1GFYcbQYH1vsmsXH3vvo7xqywEuewScYD31TxZ,J3Wx3JUgW5hfqZ4rkB41KXRrATnKUjvw4swSNE4yUKVt,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "G9sEsqifGU59Jx1Dt8e4nAwM4c7szq4y9WscW79fWe9P",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=G9sEsqifGU59Jx1Dt8e4nAwM4c7szq4y9WscW79fWe9P&amount=3&index=80&proof=Ek3dwWcFhvtN4F3BgnLmJJrRzTWm8hmnYgGDt2cUTRef,2n3WBTz5BAc1GYAwFy3MujhwkgVg1zy2H8NA8upsTW62,GsMVENckqmnS5yWHrT7DsdbCnHDNpxpV15jPX41qLpio,DUzpcKCYxXPE9WcwEJKENozt31wed4NErThU77At2AKx,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "GLpWA4X3mBHvSshZMLUKGdQMtEc3UeC3HJAdQuvJbxQ4",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=GLpWA4X3mBHvSshZMLUKGdQMtEc3UeC3HJAdQuvJbxQ4&amount=3&index=81&proof=GJnLMGNvxDjBe4FvftyNDG9omDj2THQBgwgyqLvZt9PK,2n3WBTz5BAc1GYAwFy3MujhwkgVg1zy2H8NA8upsTW62,GsMVENckqmnS5yWHrT7DsdbCnHDNpxpV15jPX41qLpio,DUzpcKCYxXPE9WcwEJKENozt31wed4NErThU77At2AKx,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "GREMSsfzoKTuBz8kYy96DLX9CPZes15wKTFnDqXRciET",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=GREMSsfzoKTuBz8kYy96DLX9CPZes15wKTFnDqXRciET&amount=3&index=82&proof=3Fnyn2PE9Cnsx5vLdEBFt5dhQj8VP94RWmDbGtrHhvam,Ghxi4Emrxor4DQ7bcLZmVqWXBmJC86PYn975aSSPvf3k,GsMVENckqmnS5yWHrT7DsdbCnHDNpxpV15jPX41qLpio,DUzpcKCYxXPE9WcwEJKENozt31wed4NErThU77At2AKx,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "GvCr2tfTPEdk1cm8TDaWHEscNaqkzKiQsEpDxpWsUZ8q",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=GvCr2tfTPEdk1cm8TDaWHEscNaqkzKiQsEpDxpWsUZ8q&amount=3&index=83&proof=94BGVgAA58KLAYgkX7XmqfWG1dDPKWUYvJHZtSbxFjsQ,Ghxi4Emrxor4DQ7bcLZmVqWXBmJC86PYn975aSSPvf3k,GsMVENckqmnS5yWHrT7DsdbCnHDNpxpV15jPX41qLpio,DUzpcKCYxXPE9WcwEJKENozt31wed4NErThU77At2AKx,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "GZxz5W4rsKdv4LU5qKbyT6uB9imLQN8WC44D3Y8NJ1rC",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=GZxz5W4rsKdv4LU5qKbyT6uB9imLQN8WC44D3Y8NJ1rC&amount=3&index=84&proof=4EEp3nXvtE68rDYhaSTwUJzikgR688WpiPojkM7AeUEz,FzsdtpxDDoGtVUVWEcbqTbUAYbzv3Z1gtEnp5jkTCBqW,6hTnA2YqEGh42sLTrkbHd9UPdLUxvvAFykFQtkM6Hn73,DUzpcKCYxXPE9WcwEJKENozt31wed4NErThU77At2AKx,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "GZZtZDsrgziLqdSh3et5TzbQBfxmWWeET3d7d3WTAQXP",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=GZZtZDsrgziLqdSh3et5TzbQBfxmWWeET3d7d3WTAQXP&amount=3&index=85&proof=3Xs3DUHXuR3e6yWABG2cfUw2VeZZrnFxgjuoA53gMuv1,FzsdtpxDDoGtVUVWEcbqTbUAYbzv3Z1gtEnp5jkTCBqW,6hTnA2YqEGh42sLTrkbHd9UPdLUxvvAFykFQtkM6Hn73,DUzpcKCYxXPE9WcwEJKENozt31wed4NErThU77At2AKx,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "HA6Wtr6Jv6kgo5VLzGVrq11Yby3k6eSAfBv5yLcwZKH6",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=HA6Wtr6Jv6kgo5VLzGVrq11Yby3k6eSAfBv5yLcwZKH6&amount=3&index=86&proof=DwFKjjnfzBqPrGM6cAgfEv7KNKjQQGPV4p18WTkfngnR,8YWQsnw6kBdJCKN9DyCuY1Azdz81t5BVybtLx6Wpcu3,6hTnA2YqEGh42sLTrkbHd9UPdLUxvvAFykFQtkM6Hn73,DUzpcKCYxXPE9WcwEJKENozt31wed4NErThU77At2AKx,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "HCQvci6MN1xrBzNbZNjFG8Jdb2cSWGzA5DiqYLV2S5zg",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=HCQvci6MN1xrBzNbZNjFG8Jdb2cSWGzA5DiqYLV2S5zg&amount=3&index=87&proof=5WVWQ5NkZDu1RCewbNgDj8674eozGdLGMK5H5ZHuKit1,8YWQsnw6kBdJCKN9DyCuY1Azdz81t5BVybtLx6Wpcu3,6hTnA2YqEGh42sLTrkbHd9UPdLUxvvAFykFQtkM6Hn73,DUzpcKCYxXPE9WcwEJKENozt31wed4NErThU77At2AKx,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "HrDtoCgC8DEt6NHt6v9imQh3ZN7CQiyypjspF4SAz3x5",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=HrDtoCgC8DEt6NHt6v9imQh3ZN7CQiyypjspF4SAz3x5&amount=3&index=88&proof=918GLBoYLAspJQtqkbtdUjcNFbqBSBKLroj2iqPtc1rF,7wXgM4b5FVMzpUZmV6NaMXTZQcLGJcTSi1U9Q1WXTwvM,DSb62XtHVAJCo2hNnycYEzYXSqz5pVxbLgZdiHbQusVL,4Nuq1eLygRMmPUTVm1zdfhFnmaWNiBmTSxKgj3xntfgY,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "SfqXD9cDwJa2ijWxJwPNw355EZo6VU93AvYhduiStqw",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=SfqXD9cDwJa2ijWxJwPNw355EZo6VU93AvYhduiStqw&amount=3&index=89&proof=7rnVUbRBomyRtf9KysSZvvrYQoBGNjLd47msWxGh6aAA,7wXgM4b5FVMzpUZmV6NaMXTZQcLGJcTSi1U9Q1WXTwvM,DSb62XtHVAJCo2hNnycYEzYXSqz5pVxbLgZdiHbQusVL,4Nuq1eLygRMmPUTVm1zdfhFnmaWNiBmTSxKgj3xntfgY,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "w4cXP81X6zEoVVPAsuj1544vAMzWoyKrYTrpP4dBa4L",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=w4cXP81X6zEoVVPAsuj1544vAMzWoyKrYTrpP4dBa4L&amount=3&index=90&proof=TULBBrwGnveeBTZ5vKStFFXydk4Du6imeWA88XFk72X,76DXJthmmZbGZ31N15M5nCb2C5jQt9GW9A1F8gDxMaWD,DSb62XtHVAJCo2hNnycYEzYXSqz5pVxbLgZdiHbQusVL,4Nuq1eLygRMmPUTVm1zdfhFnmaWNiBmTSxKgj3xntfgY,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "4FTBHt2dgiTMt8mXwV2va8eApuuWrSS1w8QNrL4wcwL5",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=4FTBHt2dgiTMt8mXwV2va8eApuuWrSS1w8QNrL4wcwL5&amount=3&index=91&proof=DuZph7aCVQDesBUfYBHay397KxLKo6sP485GoLuzFYBS,76DXJthmmZbGZ31N15M5nCb2C5jQt9GW9A1F8gDxMaWD,DSb62XtHVAJCo2hNnycYEzYXSqz5pVxbLgZdiHbQusVL,4Nuq1eLygRMmPUTVm1zdfhFnmaWNiBmTSxKgj3xntfgY,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "BZnMTrS9X1p7aALFr9HEfuisPV9zNzJihmxcNrK2oGqT",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=BZnMTrS9X1p7aALFr9HEfuisPV9zNzJihmxcNrK2oGqT&amount=3&index=92&proof=8gh65gLH3ov8ge74dKF4RLFiWFRrdM87NLERw8psCqAD,79PQ4e2gJDxnHJv2xkgxMEt7YdhtUbA3adtxVEpUbohM,7mxSBEzUr4ZBZG69BCV67AwZsyScSBkmrt6D1QBnVAEp,4Nuq1eLygRMmPUTVm1zdfhFnmaWNiBmTSxKgj3xntfgY,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "H3yfp2a7WwRE5rYSi4a7aoP9Rb3Ga8HCsSD6JWyQRt4G",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=H3yfp2a7WwRE5rYSi4a7aoP9Rb3Ga8HCsSD6JWyQRt4G&amount=3&index=93&proof=DkSXis9TVLt6UnvcWSzz6UorgJKWsKUyqt89iw5ywDey,79PQ4e2gJDxnHJv2xkgxMEt7YdhtUbA3adtxVEpUbohM,7mxSBEzUr4ZBZG69BCV67AwZsyScSBkmrt6D1QBnVAEp,4Nuq1eLygRMmPUTVm1zdfhFnmaWNiBmTSxKgj3xntfgY,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "Cbru8Ks4v8qwcA6F8QQ7RuWc7Dt7TiaFScQdVcQQ5zEi",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=Cbru8Ks4v8qwcA6F8QQ7RuWc7Dt7TiaFScQdVcQQ5zEi&amount=3&index=94&proof=BjsPYir7eCCEijPBxC7umsPM6pGep6vAo5si7KV7ShZp,25zH3h5KDk5zPrfK35uTmMvs14sVEtDycw4TUiiDdVij,7mxSBEzUr4ZBZG69BCV67AwZsyScSBkmrt6D1QBnVAEp,4Nuq1eLygRMmPUTVm1zdfhFnmaWNiBmTSxKgj3xntfgY,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "3DJfygNUDBKzBYdRnDrcuZtwFbDrPEaj13TQosCMa5m8",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=3DJfygNUDBKzBYdRnDrcuZtwFbDrPEaj13TQosCMa5m8&amount=3&index=95&proof=AxiDEegpiqyFrCdinq4Let9TeycmcCrjPnTx3f8DYtQG,25zH3h5KDk5zPrfK35uTmMvs14sVEtDycw4TUiiDdVij,7mxSBEzUr4ZBZG69BCV67AwZsyScSBkmrt6D1QBnVAEp,4Nuq1eLygRMmPUTVm1zdfhFnmaWNiBmTSxKgj3xntfgY,3LucCH7SpQwNhKJGqUciKRkeHdA3Wb6adV1C4Q7S5Mzi,4xdsp3aAHXv3P1aPbb7CQ6tE5dQ1F1QRQyx4frJXZjah,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "GTE5nXuy88hp3Et4Ng7yWT6uG9vaeP2Ywe4MgsdBffhi",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=GTE5nXuy88hp3Et4Ng7yWT6uG9vaeP2Ywe4MgsdBffhi&amount=3&index=96&proof=F4BaAPsSxaTfaPxF3ZoTKY2Yj2QFuK4LotzwURQcRPw3,8ejdEoR75vrGrDYSxoaMQExpKBdheYF7m7931g2iumQd,6kK7Yu8gsxeuHgW5fqeFkebyG9SYYva8ubnu8d7F2RUK,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "5Xyv6HRZgUrsEJWNuNqtaKBPjNzBuCje7Xr6ce3KQmpb",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=5Xyv6HRZgUrsEJWNuNqtaKBPjNzBuCje7Xr6ce3KQmpb&amount=3&index=97&proof=AqsYGyNKnq5FoSZASpo6SoFp96mUKnEaweFKazKVBnEi,8ejdEoR75vrGrDYSxoaMQExpKBdheYF7m7931g2iumQd,6kK7Yu8gsxeuHgW5fqeFkebyG9SYYva8ubnu8d7F2RUK,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "FNCkEaeS68YUvTSsMEBgxT63Mj1tRkg57Uh6R6C5yhTo",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=FNCkEaeS68YUvTSsMEBgxT63Mj1tRkg57Uh6R6C5yhTo&amount=3&index=98&proof=AtoYgQ5YFGK5FxWrtBjUdi6g7EnyeGKc7vEwco6JTttk,8orUq5GJQdoyepskrA8v1GuCaeZjNWJS8pNezTtkoMXW,6kK7Yu8gsxeuHgW5fqeFkebyG9SYYva8ubnu8d7F2RUK,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
+  },
+  {
+      "handle": "GNfErVBfnE9jGUCJeMb4KqpHA5q9cSqQ9iVbUQdErMXC",
+      "amount": 3,
+      "url": "https://gumdrop-pdtnft.vercel.app/gumdrop/claim?distributor=H5SzMcurWatcoDSKL63iWcF7tPrFJhBLJovQNhphCfPS&handle=GNfErVBfnE9jGUCJeMb4KqpHA5q9cSqQ9iVbUQdErMXC&amount=3&index=99&proof=6JCsvYrSYEjTbkJe5sUFiA9bqGShmszCFhHCc8fL8K35,8orUq5GJQdoyepskrA8v1GuCaeZjNWJS8pNezTtkoMXW,6kK7Yu8gsxeuHgW5fqeFkebyG9SYYva8ubnu8d7F2RUK,6c3EXjNpmqR2S2b26MYGjvuDukgvcpPK4jwVfDUWpaXE&pin=NA&config=BfLCHmCott7a5hg32PFETnUekG4AHDYctN9JC4VWqKJK&uuid=BfLCHm"
   }
 ]
